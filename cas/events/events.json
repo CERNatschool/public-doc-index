@@ -1,0 +1,200 @@
+[
+  {
+"title":"Cosmic 100: LUCID at the Royal Society Summer Science Exhibition 2012",
+"short_title":"LUCID at the RSSSE 2012 (London)",
+"label":"rssse2012",
+"timestamp_start":1341302400,
+"timestamp_end":1341763200,
+"event_url":"http://sse.royalsociety.org/2012/exhibits/cosmic-100/",
+"summary":"The Langton Ultimate Cosmic ray Intensity Detector (LUCID) exhibition stand was part of the Cosmic 100 display at the Royal Society Summer Science Exhibition 2012.  The stand, designed and built by Ian Simmonds, featured a Timepix detector and a number of mildly radioactive geological sample to demonstrate the real-time visualisation capabilities of the Timepix detector, five of which would be onboard LUCID when it ultimately launched."
+  },
+  {
+"title":"The ASE Annual Conference 2013 - Reading",
+"short_title":"CERN@school at ASE 2013 (Reading)",
+"label":"ase2013",
+"timestamp_start":1357203600,
+"timestamp_end":1357405200,
+"event_url":"http://www.ase.org.uk/conferences/previous-annual-conferences/ase-annual-conference-2013-reading/",
+"summary":"CERN@school attended the Association for Science Education (ASE) 2013 Annual Conference with a presence on the STFC exhibition stand and a workshop for teachers on the CERN@school detectors."
+  },
+  {
+"title":"BBC Stargazing Live 2013 at the Simon Langton Grammar School for Boys",
+"short_title":"BBC Stargazing Live 2013 (Canterbury)",
+"label":"bbcstargazing2013",
+"timestamp_start":1357664400,
+"event_url":"http://www.bbc.co.uk/news/uk-england-kent-20958593",
+"summary":"The Simon Langton Grammar School for Boys, home of CERN@school at the time, hosted a local BBC Stargazing Live event.  CERN@school featured in a session about Citizen Science."
+  },
+  {
+"title":"IOP Teachers Network Full Coordinators Meeting",
+"short_title":"IOP Teachers Network Full Coordinators Meeting (Canterbury)",
+"label":"ioptnfcm2013jan",
+"timestamp_start":1359192600,
+"summary":"The January 2013 IOP Teachers Network Full Coordinators Meeting was held a the Langton Star Centre, where around half of the Physics Network Coordinators (PNCs) were first introduced to the CERN@school programme and the Timepix detectors."
+  },
+  {
+"title":"LUCID meeting with Prof. Larry Pinsky at SSTL (Guildford)",
+"short_title":"LUCID meeting at SSTL (Guildford)",
+"label":"lucidsstlpinsky",
+"timestamp_start":1360663200,
+"summary":"Students from the LUCID team met with engineers from Surrey Satellite Technology Ltd. (SSTL) and Professor Larry Pinsky (Uni. Houston/NASA) to discuss plans for the launch and operation of the LUCID experiment, as well as gaining access to data from the five Timepix detectors aboard the Internation Space Station (ISS).  The meeting was hosted by David Cooke (SSTL), Chief Engineer for SSTL on the LUCID project."
+  },
+  {
+"title":"The Big Bang Fair 2013 (ExCeL, London)",
+"short_title":"CERN@school at the Big Bang Fair 2013 (London)",
+"label":"bigbang2013",
+"timestamp_start":1363251600,
+"timestamp_end":1363539600,
+"event_url":"http://www.stfc.ac.uk/news/big-bang-fair-2013/",
+"summary":"CERN@school had a presence at the Big Bang Fair 2013 (ExCeL, London) with the LUCID exhibition display stand that was used at the Royal Society Summer Science Exhibition 2012."
+  },
+  {
+"title":"20th International Conference on Computing in High Energy and Nuclear Physics (Amsterdam, Holland)",
+"short_title":"CHEP 2013 (Amsterdam, Holland)",
+"label":"caschep2013event",
+"timestamp_start":1381737600,
+"timestamp_end":1382094900,
+"event_url":"http://www.chep2013.org/",
+"summary":"CERN@school attended CHEP 2013 to present the first results from simulations of the LUCID experiment.  These were used to estimate the data rates that would be required for operation of the experiment in Low Earth Orbit (LEO).  The results are reported in the conference proceedings which may be found in~\\cite{Whyntie2014}."
+  },
+  {
+"title":"The SEPnet 2013 Summer Student Expo at the Royal Institution of Great Britain",
+"short_title":"SEPnet 2013 Student Expo (Ri, London)",
+"label":"sepnetstudentexpo2013",
+"timestamp_start":1384938000,
+"summary":"It was at this event that SEPnet summer students J. Cook and A. Coupe presented their CERN@school summer placement poster.  They won the best poster award and were presented with their prize by Prof. Jim Al-Khalili (Uni. Surrey)."
+  },
+  {
+"title":"The ASE Annual Conference 2014 - Birmingham",
+"short_title":"CERN@school at ASE 2014 (Birmingham)",
+"label":"ase2014",
+"timestamp_start":1389171600,
+"timestamp_end":1389459600,
+"event_url":"http://www.ase.org.uk/conferences/previous-annual-conferences/ase-annual-conference-2014/",
+"summary":"CERN@school attended the Association for Science Education (ASE) 2014 Annual Conference to launch its network of MX-10 detectors and latest set of education materials, with a keynote speech given by Prof. J. Butterworth (UCL) on CERN's ATLAS experiment."
+  },
+  {
+"title":"Medipix Collaboration Meeting (Diamond Light Source, Oxfordshire)",
+"short_title":"Medipix Collaboration Meeting (Diamond Light Source)",
+"label":"mpxcol2014diamond",
+"timestamp_start":1402473600,
+"timestamp_end":1402585200,
+"event_url":"http://www.diamond.ac.uk/Home/Events/2014/Medipix.html",
+"summary":"CERN@school attended the open portions of the June 2014 Medipix Collaboration meeting, held at the Diamond Light Source at the Rutherford Appleton Laboratory (RAL).  An update of CERN@school activities featuring the Timepix detector was given to collaboration members."
+  },
+  {
+"title":"2nd MoEDAL Collaboration meeting (CERN)",
+"short_title":"2nd MoEDAL Collaboration meeting (CERN)",
+"label":"casmoedalcol2014jun",
+"timestamp_start":1403186400,
+"timestamp_end":1403370000,
+"event_url":"https://indico.cern.ch/event/320391",
+"summary":"The 2nd MoEDAL Collaboration meeting was held at CERN, and CERN@school were invited to attend thanks to the students' experience with the Timepix detectors to explore whether they could contribute to the MoEDAL (Monopole and Exotics Detector at the LHC) experiment."
+  },
+  {
+"title":"16th International Workshop on Radiation Imaging Detectors (Trieste, Italy)",
+"short_title":"iWoRID 2014 (Trieste, Italy)",
+"label":"iworid2014",
+"timestamp_start":1403458200,
+"timestamp_end":1403796600,
+"event_url":"https://agenda.cnaf.infn.it/conferenceDisplay.py?confId=609",
+"summary":"It was at iWoRID 2014 that CERN@school collaboration members presented results from the full GEANT4 simulations of the LUCID experiment.  These are summarised in the conference proceedings that may be found in~\\cite{Whyntie2015a}."
+  },
+  {
+"title":"37th International Conference on High Energy Physics (Valencia, Spain)",
+"short_title":"ICHEP 2014 (Valencia, Spain)",
+"label":"ichep2014event",
+"timestamp_start":1404313200,
+"timestamp_end":1404928800,
+"event_url":"http://indico.ific.uv.es/indico/conferenceDisplay.py?confId=2025",
+"summary":"It was at ICHEP 2014 that CERN@school was formally introduced to the international High Energy Physics (HEP) community, with an overview of the programme presented to conference delegates as part of the outreach and engagement stream.  The conference proceedings may be found in~\\cite{Whyntie2016b}."
+  },
+  {
+"title":"LUCID launches aboard TechDemoSat-1 (Baikonur, Kazakhstan)",
+"short_title":"LUCID launch (Baikonur, Kazakhstan)",
+"label":"lucidlaunch",
+"timestamp_start":1404831480,
+"event_url":"http://www.bbc.co.uk/news/science-environment-28200846",
+"summary":"LUCID finally lauched aboard Surrey Satellite Technology Limited (SSTL) demonstration satellite, TechDemoSat-1, on a Soyuz rocket from Baikonur in Kazakhstan at 21:58 local time (16:58 BST).  The launch was covered by the BBC and various other media outlets.  Data was soon being received from LUCID and the first results were presented by C. Hewitt (LUCID student team leader) at the 2015 National Astronomy Meeting (NAM 2015)."
+  },
+  {
+"title":"PSD10: The 10th International Conference on Position Sensitive Detectors",
+"short_title":"PSD10 (Uni. Surrey)",
+"label":"psd10",
+"timestamp_start":1410102000,
+"timestamp_end":1410519600,
+"event_url":"https://indico.cern.ch/event/174805",
+"summary":"The 10th International Conference on Position Sensitive Detectors featured the latest developments in position sensitive detectors from leading researchers around the world and across a wide range of scientific disciplines.  Held at the University of Surrey, PSD10 hosted the first ever CERN@school Research Symposium on Monday 8th September 2014 as part of its scientific programme.  M. Campbell, head of the Medipix Collaboration, gave the keynote address."
+  },
+  {
+"title":"CERN@school Research Symposium 2014 (Uni. Surrey, Guildford)",
+"short_title":"CERN@school Research Symposium 2014 (Uni. Surrey)",
+"label":"cassymposium2014",
+"timestamp_start":1410181200,
+"event_url":"https://indico.cern.ch/event/174805/sessions/126851/#20140908",
+"summary":"The first ever CERN@school Research Symposium was held at the University of Surrey, Guildford, as part of the 10th International Conference on Position Sensitive Detectors (PSD).  76 students from twelve schools came from as far as Aberdeen (flying there and back in a day!) to take part, giving talks, presenting posters, and attending workshops on CERN@school related research and activities."
+  },
+  {
+"title":"CERN@school attends the UK ASDC National Conference 2014",
+"short_title":"UK ASDC National Conference 2014 (London)",
+"label":"asdc2014",
+"timestamp_start":1411547400,
+"event_url":"http://www.sciencecentres.org.uk/events/2014_Conference/",
+"summary":"A delegation from the CERN@chool team attended the UK Association for Science and Discovery Centres (ASDC) National Conference 2014, where they had an exhibition stand featuring a demonstration of the Timepix detector."
+  },
+  {
+"title":"The Big Bang Fair 2015 (NEC, Birmingham)",
+"short_title":"CERN@school at the Big Bang Fair 2015 (NEC, Birmingham)",
+"label":"bigbang2015",
+"timestamp_start":1426064400,
+"timestamp_end":1426352400,
+"summary":"Nearly 70,000 young people, teachers and parents came to The Big Bang UK Young Scientists and Engineers Fair to see science, technology, engineering and maths brought to life from 11-14 March 2015 at Birmingham's National Exhibition Centre (NEC).  CERN@school featured as part of S. Sheehy's (STFC) talk with S. Gates and H. Fry entitled, Gastronaut and the Quantum Mechanical Chocolate Factory.  A CERN@school detector was used to show the radiation emitted by different types of food.  The talk was given twelve times to an audience of around 1500 people, i.e. 12,000 in all."
+  },
+  {
+"title":"Total Solar Eclipse 2015: a CERN@school experiment",
+"short_title":"Total Solar Eclipse 2015: a CERN@school experiment",
+"label":"eclipse2015event",
+"timestamp_start":1426835640,
+"event_url":"https://dx.doi.org/10.6084/m9.figshare.1333542.v1",
+"summary":"This event saw the first coordinated measurements taken with the CERN@school detector network as part of an experiment to observe what happened to levels of background radiation during the Total Solar Eclipse of the 20th of March 2016.  Around twenty detectors were used in schools across the country to make measurements during the eclipse itself, as well as during other test and control runs.  The experiment is reported in~\\cite{Whyntie2016a}.  The data was uploaded originally to the DAQMAP and then to TAPAS (the Timepix Analysis Platform As School), hosted by the Langton Star Centre on behalf of the Institute for Research in Schools (IRIS)."
+  },
+  {
+"title":"CERN@school Research Symposium 2015 (Queen Mary University of London)",
+"short_title":"CERN@school Research Symposium 2015 (QMUL)",
+"label":"cassymposium2015",
+"timestamp_start":1442392200,
+"summary":"The second CERN@school Research Symposium was held at Queen Mary University of London (QMUL).  Around 100 students from schools across the country attended, giving talks and presenting posters on their research.  The keynote address was given by Professor Lawrence Pinsky (NASA/Uni. Houston) on NASA's use of Timepix detectors on the International Space Station (ISS) and Orion project.  The Symposium also saw the launch of the TimPix project, part of Tim Peake's Principia mission aboard the ISS that has given students from schools in the UK and US access to data from NASA's ISS Timepix detectors."
+  },
+  {
+"title":"The Royal Institution Christmas Lectures 2015: How to Survive in Space (BBC4)",
+"short_title":"The Royal Institution Christmas Lectures 2015 (BBC4)",
+"label":"rixmaslectures2015",
+"timestamp_start":1451332800,
+"timestamp_end":1451509200,
+"event_url":"http://www.bbc.co.uk/programmes/b06tg0b5",
+"summary":"The 2015 Royal Institution Christmas Lectures were given by Dr Kevin Fong, with help from the UK's first ESA astronaut Tim Peake.  The series looked at how to survive in space, and featured a live demonstration of the visualisation of ionising radiation by a Timepix detector as used onboard the International Space Station (ISS) for the TimPix project.  The Institute for Research in Schools (IRIS) provided Windfall Films (the Christmas Lectures production company) with a CERN@school detector for demonstration purposes in what was the first use of Medipix technology on live, nationwide television."
+  },
+  {
+"title":"Medipix Collaboration Meeting -- Open Session (CERN)",
+"short_title":"Medipix Collaboration Meeting -- Open Session (CERN)",
+"label":"mpxcol2016cern",
+"timestamp_start":1474441200,
+"event_url":"https://indico.cern.ch/event/570934/",
+"summary":"CERN@school attended the open session of the September 2016 Medipix Collaboration meeting, held at CERN.  An update of CERN@school activities featuring the Timepix detector was given by IRIS students to collaboration members, including reports from LUCID, TAPAS, Autonaut and TimPix."
+  },
+  {
+"title":"Principia Schools Conference Nov. 2016 (Uni. Portsmouth)",
+"short_title":"Principia Schools Conference Nov. 2016 (Uni. Portsmouth)",
+"label":"principia2016pompey",
+"timestamp_start":1478077200,
+"event_url":"https://principia.org.uk/schools-conferences/portsmouth/",
+"summary":"The UK Space Agency and its educational partners celebrated the imaginative work linked to Tim Peake's Principia mission done by children of all ages at a pair of conferences for young people.  The conference held at the University of Portsmouth covered those in the south of England.  CERN@school students attended to showcase their work on the TimPix project, which featured data from the five Timepix detectors onboard the International Space Station (ISS).  CERN@school detectors were also used at the conference to demonstrate the Timepix technology used to monitor Tim Peake's radiation levels in real time."
+  },
+  {
+"title":"CERN@school Research Symposium 2016 (Rutherford Appleton Laboratory)",
+"short_title":"CERN@school Research Symposium 2016 (RAL)",
+"label":"cassymposium2016",
+"timestamp_start":1478597400,
+"summary":"The third CERN@school Research Symposium was held at STFC's Rutherford Appleton Laboratory (RAL) in Didcot, Oxfordshire.  Around 100 students from schools across the country attended, giving talks and presenting posters on their research, as well as participating in visits and tours around the RAL Harwell campus.  The keynote address was given by head of the Medipix Collaboration Michael Campbell (CERN), and other talks featured updates on Radiation Around You (RAY), LUCID, the Timepix Analysis Platform At School (TAPAS, the replacement data management system for the DAQMAP), TimPix, and the CERN@sea collaboration with Autonaut Ltd." 
+  }
+]

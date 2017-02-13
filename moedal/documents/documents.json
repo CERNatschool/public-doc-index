@@ -1,0 +1,110 @@
+[
+  {
+    "title":"The CERN@school programme: MoEDAL bibliography",
+    "short_title":"The MoEDAL bibliography",
+    "label":"moedalbib",
+    "drn":"CAS-PUB-MDL-000001",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.193038",
+    "url":"http://doi.org/10.5281/zenodo.193038",
+    "summary":"This document presents a bibliography of publications relating directly or indirectly to the Monopole and Exotics Detector at the LHC (MoEDAL). It is intended to serve as a reference for members of the MoEDAL Collaboration, students involved in research activities connected to MoEDAL, and indeed anyone with an interest in the latest searches for Dirac's hypothesised magnetic monopole at CERN's Large Hadron Collider. Both quick reference summary tables, indexed by BibTeX citation code (as used in the accompanying BibTeX file), and a full bibliography in the BibTeX unsrt style are provided."
+  },
+  {
+    "title":"The CERN@school Programme: A Guide to the MoEDAL Experiment",
+    "short_title":"A guide to MoEDAL",
+    "label":"moedalcasguide",
+    "drn":"CAS-PUB-MDL-000002",
+    "old_drn":"000300",
+    "doi":"10.5281/zenodo.248615",
+    "url":"http://doi.org/10.5281/zenodo.248615",
+    "summary":"The MoEDAL experiment (Monopoles and Exotics Detector at the LHC) is the seventh major experiment at CERN's Large Hadron Collider.  It is designed to probe the LHC's particle collisions for signs of Paul Dirac's hypothesised magnetic monopole, as well as other highly ionising signs of new physics that the other LHC experiments cannot easily look for.  The Institute for Research in Schools (IRIS) is a full member of the MoEDAL Collaboration, and students associated with IRIS have access data from the MoEDAL experiment and are able to contribute to the MoEDAL Collaboration's research programme.  This document aims to provide a brief guide to the history, theory, and physics of the MoEDAL experiment so that IRIS students and teachers can take full advantage of these opportunities."
+  },
+  {
+    "title":"Maxwell's equations with and without magnetic charge",
+    "short_title":"Maxwell's Equations",
+    "label":"maxwellsequationsdoc",
+    "drn":"CAS-PUB-MDL-000003",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.215308",
+    "url":"http://doi.org/10.5281/zenodo.215308",
+    "summary":"Maxwell's equations of classical electromagnetism are presented, in Gaussian units, without and with magnetic charge.  Equations 5 to 8 are taken from the front cover of the Monopole and Exotics Detector at the LHC (MoEDAL) Technical Design Report, the Large Hadron Collider's seventh major experiment and the latest venture to be undertaken in the search for Dirac's hypothesised magnetic monopole."
+  },
+  {
+    "title":"The CERN@school Programme: MoEDAL outreach talk template",
+    "short_title":"Presentation template",
+    "label":"moedalschtemplate",
+    "drn":"CAS-PUB-MDL-000004",
+    "old_drn":"000301",
+    "doi":"10.5281/zenodo.255318",
+    "url":"http://doi.org/10.5281/zenodo.255318",
+    "summary":"This Microsoft PowerPoint file contains a set of slides that may be used as a template for outreach talks by teachers, students, or scientists working with the Monopole and Exotics Detector at the LHC (MoEDAL) through the Institute for Research in Schools.  It should be used in conjunction with The CERN@school Programme: A Guide to the MoEDAL Experiment referenced below.  Users should ensure that all placeholder text (e.g. name, institution, event - and all information in the headers and footers) is amended appropriately before use.  All content is issued under a Creative Commons CC-BY 4.0 license except where otherwise noted: users are positively encouraged to amend, adapt, and share their own versions of the talk to suit their own style and purpose.  Please also note that two images from CERN (the LHC aerial view and the Standard Model figure) need to be downloaded separately; links to the CERN Document Server (CDS) are provided on the slides in question for convenience."
+  },
+  {
+    "title":"Is this the end of particle physics as we know it? Let's hope not",
+    "short_title":"Article for The Conversation",
+    "label":"moedalconv",
+    "drn":"CAS-PUB-MDL-000005",
+    "old_drn":"000245",
+    "doi":"10.5281/zenodo.248601",
+    "url":"http://doi.org/10.5281/zenodo.248601",
+    "summary":"This article, about the restart of CERN's Large Hadron Collider (LHC) and the search for magnetic monopoles at the Monopole and Exotics Detector at the LHC (MoEDAL), was originally published by The Conversation on June 5, 2015 6.12am BST.  It was syndicated by various outlets including IFL Science and phys.org, and as of 16th January 2017 it had been viewed 500,750 times."
+  },
+  {
+    "title":"The CERN@school Programme: MoEDAL Grid User Guide",
+    "short_title":"Grid user guide",
+    "label":"moedalgriduserguide",
+    "drn":"CAS-PUB-MDL-000006",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.255649",
+    "url":"http://doi.org/",
+    "summary":"This document provides a guide to getting on the Worldwide LHC Computing Grid (WLCG) with the Monopole and Exotics Detector at the LHC (MoEDAL). It covers what is required to get started on the Grid, how MoEDAL is integrated with the Worldwide LHC Computing Grid infrastructure, and how to run MoEDAL simulations using the GridPP DIRAC system and Ganga User Interface."
+  },
+  {
+    "title":"Dirac's magnetic monopole (figure)",
+    "short_title":"Dirac's monopole (figure)",
+    "label":"moedaldiracmonopolefig",
+    "drn":"CAS-PUB-MDL-000007",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.215523",
+    "url":"http://doi.org/10.5281/zenodo.215523",
+    "summary":"This figure shows a schematic representation of Dirac's magnetic monopole.  The monopole is imagined to be the end point of a semi-infinitely long, infinitesimally thin solenoid known as a Dirac string, shown from the side (red lines). The magnetic field lines (black arrows) are shown emanating from the point at the end of the string (imagine the red lines are infinitely close together).  If such Dirac monopoles exist, it is the requirement that the string is undetectable that means electric charge must be quantised."
+  },
+  {
+    "title":"A magnetic dipole and a magnetic monopole (figure)",
+    "short_title":"Dipole vs. monopole (figure)",
+    "label":"moedaldipolevsmonopole",
+    "drn":"CAS-PUB-MDL-000008",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.215520",
+    "url":"http://doi.org/10.5281/zenodo.215520",
+    "summary":"This figure shows a magnetic dipole with North and South poles (left) and a magnetic monopole, North pole only (right)."
+  },
+  {
+    "title":"Schematic of the MoEDAL Timepix detector array (2012)",
+    "short_title":"2012 Timepix array (figure)",
+    "label":"moedaltpxdetarray2012fig",
+    "drn":"CAS-PUB-MDL-000009",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.167056",
+    "url":"http://doi.org/10.5281/zenodo.167056",
+    "summary":"This figure shows a schematic of the MoEDAL Timepix Detector Array as of 2012 (not to scale), showing: a) Timepix detector F04-W0098 (sensor perpendicular to the beam); b) the LHCb (IP8) cavern wall; c) the LHC beam pipe; d) the LHCb VELO subdetector casing; e) Timepix detector F03-W0098 (sensor parallel to the beam)."
+  },
+  {
+    "title":"On the flora and fauna of highly ionising background radiation at Interaction Point 8",
+    "short_title":"Timepix internal note",
+    "label":"moedaltimepixnote",
+    "drn":"CAS-INT-MDL-000001",
+    "old_drn":"000218",
+    "url":"https://twiki.cern.ch/twiki/bin/view/MoEDAL/MoEDALTimepixIRISFloraAndForna",
+    "summary":"This internal note will present the initial results of both CERN@school students and MoEDAL CERN Summer students from studies of data from the MoEDAL Timepix detector network.  A classification scheme for clusters observed in data from the LHC's Run I is proposed and applied to a subset of the data, and the potential for analysing the beam conditions from the Timepix readout for data from Run II and beyond is discussed."
+  },
+  {
+    "title":"A pilot study of mass-participation methodologies for Nuclear Track Detector analysis with the MoEDAL experiment",
+    "short_title":"NTD internal note",
+    "label":"moedalntdnote",
+    "drn":"CAS-INT-MDL-000002",
+    "old_drn":"000293",
+    "url":"https://twiki.cern.ch/twiki/bin/view/MoEDAL/MoEDALNTDCitizenSciencePilot",
+    "summary":"This internal note will present the initial results from a pilot study involving CERN@school students on the use of mass-participation methodologies (a.k.a. Citizen Science) as applied to analysis of the MoEDAL Nuclear Track Detector scans.  It features the first measurement derived from the Monopole Quest! Zooniverse project, launched at the Royal Society Summer Science Exhibition 2015, which took NTD scan data as processed by Bristol-based Track Analysis Systems Limited (TASL) and used the Panoptes Zooniverse project builder to create an etch pit identification and measurement system for volunteers to use.  The results from this study should feed into the collaboration-wide physics paper on the NTD results from LHC Runs I and II.  The respository also features the data from the first batch of Monopole Quest! results required to extract this and other results necessary for the analysis."
+  }
+]

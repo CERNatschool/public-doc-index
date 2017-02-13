@@ -1,0 +1,28 @@
+# TeX
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+
+# Output
+autotable.tex
+documents.tex
+documentstable.tex
+presentations.tex
+presentationstable.tex
+events.tex
+eventstable.tex
+code.tex
+codetable.tex
+*.pdf
+
+# Python
+*.py[o,c]
+
+# Old
+template_*
+old/
+common_old/
+backup/

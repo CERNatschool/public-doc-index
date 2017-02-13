@@ -1,0 +1,235 @@
+[
+  {
+    "title":"The CERN@school Programme: Document Index",
+    "short_title":"The CERN@school Programme: Document Index",
+    "label":"casdocindex",
+    "drn":"CAS-PUB-GEN-000000",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.227090",
+    "url":"http://doi.org/10.5281/zenodo.227090",
+    "summary":"This document provides an index for selected documents, presentations, events, code repositories, and publications relating to the research and activities of the CERN@school programme from June 2012 to December 2016."
+  },
+  {
+    "title":"CERN@school Users' Guide",
+    "short_title":"CERN@school Users' Guide",
+    "label":"casusersguide",
+    "drn":"CAS-PUB-GEN-000001",
+    "old_drn":"None",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document, produced by the Institute for Research in Schools (IRIS), provides a guide to CERN@school for new users.  It covers the operation of the detector, case studies of how it has been used in schools, information on ionising radiation and how it is detected, and how to take measurements with and analyse data from the Jabltron MX-10 Timepix detector.  It was written by L. Thomas (LFT Consulting) with support from E. Cunningham (STFC), C. Shepherd (IOP), G. Steele (SSERC), T. Whyntie (QMUL), and G. Williams (IOP) and graphic design by CreativeHex."
+  },
+  {
+    "title":"Alpha absorption (teachers' guide)",
+    "short_title":"Alpha absorption (teachers' guide)",
+    "label":"casexpguidealpha",
+    "drn":"CAS-PUB-GEN-000001a",
+    "old_drn":"None",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document, developed in collaboration with the Scottish Schools Education Research Centre (SSERC), outlines an experiment that explores what happens to the numbers of alpha particles detected by the MX-10 unit as the distance between the source and the sensor is varied and a barrier is introduced."
+  },
+  {
+    "title":"Beta absorption (teachers' guide)",
+    "short_title":"Beta absorption (teachers' guide)",
+    "label":"casexpguidebeta",
+    "drn":"CAS-PUB-GEN-000001b",
+    "old_drn":"None",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document, developed in collaboration with the Scottish Schools Education Research Centre (SSERC), provides a two-page guide to investigating the effect of placing different barriers between the detector and a source of beta radiation on the number of particles detected by the MX-10 unit."
+  },
+  {
+    "title":"Capturing muons (teachers' guide)",
+    "short_title":"Capturing muons (teachers' guide)",
+    "label":"casexpguidemuons",
+    "drn":"CAS-PUB-GEN-000001m",
+    "old_drn":"None",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document, developed in collaboration with the Scottish Schools Education Research Centre (SSERC), provides a two-page guide to an experiment that aims to observe the capture of a muon produced as a result of a cosmic ray interacting with our atmosphere."
+  },
+  {
+    "title":"Measuring background radiation (teachers' guide)",
+    "short_title":"Measuring background radiation (teachers' guide)",
+    "label":"casexpguidebkg",
+    "drn":"CAS-PUB-GEN-000001x",
+    "old_drn":"None",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document, developed in collaboration with the Scottish Schools Education Research Centre (SSERC), provides a simple two-page guide to making measurements of background radiation in a given situation.  A more detailed description of the same experiment can be found in CAS-PUB-GEN-000008."
+  },
+  {
+    "title":"Measuring Radon (teachers' guide)",
+    "short_title":"Measuring Radon (teachers' guide)",
+    "label":"casexpguideradon",
+    "drn":"CAS-PUB-GEN-000001r",
+    "old_drn":"None",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document, developed in collaboration with the Scottish Schools Education Research Centre (SSERC), provides a simple two-page guide to performing an experiment to detect and measure the properties of the decay products of Radon."
+  },
+  {
+    "title":"CERN@school Curriculum Guide",
+    "short_title":"CERN@school Curriculum Guide",
+    "label":"cascurriculumguide",
+    "drn":"CAS-PUB-GEN-000002",
+    "old_drn":"000233",
+    "url":"http://researchinschools.org/CERN",
+    "summary":"This document provides educators with information on the discovery of radiation, the properties of the different radiation types (alpha, beta and gamma), half-life, background radiation, cosmic rays and particle detection technology - i.e. those subjects relevant to the various subject specifications in the United Kingdom and Ireland."
+  },
+  {
+    "title":"The TimPix research guide",
+    "short_title":"The TimPix research guide",
+    "label":"castimpixresearchguide",
+    "drn":"CAS-PUB-GEN-000003",
+    "old_drn":"000258",
+    "doi":"10.6084/m9.figshare.1544499.v3",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1544499.v3",
+    "summary":"This document is the research guide for the UK Space Agency-sponsored TimPix project, TimPix: monitoring Peake radiation levels with the Timepix detector.  It was written by L. F. Thomas (LFT Consulting and ESERO Space Ambassador) with graphic design by CreativeHex and support from the CERN@school team.  The guide aims to provide an overview of the science one needs to know to take part in CERN@school's TimPix research, part of the UKSA's Principia project that was launched to provide science education and outreach opportunities to accompany Tim Peake's mission aboard the International Space Station in 2014/15."
+  },
+  {
+    "title":"CERN@school: A simple source - potassium chloride",
+    "short_title":"CERN@school: A simple source - potassium chloride",
+    "label":"caskclsource",
+    "drn":"CAS-PUB-GEN-000004",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.3492527.v3",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.3492527.v3",
+    "summary":"This CERN@school guide, published on FigShare, presents some instructions for making a safe source of beta radiation using potassium chloride (KCl).  This can then be used for testing the operation of the CERN@school Timepix detector and doing some basic analysis with the Pixelman particle counting software."
+  },
+  {
+    "title":"CERN@school: William Crookes' Notebook Radiation Measurement Data",
+    "short_title":"The Crookes dataset (Royal Institution, June 2013)",
+    "label":"crookesdata2013",
+    "drn":"CAS-PUB-GEN-000005",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.734262.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.734262.v1",
+    "summary":"This is a set of data collected with a CERN@school Timepix detector suspended above one of the notebooks belonging to William Crookes. It was collected at the Royal Institution of Great Britain, who hold Crookes' notebooks in their archive, as part of Helen Arney's BIG SCIENCE event held on Tuesday 18th June 2013."
+  },
+  {
+    "title":"Investigating the inverse square law with the Timepix hybrid silicon pixel detector - Am-241 datasets",
+    "short_title":"Am-241 datasets for the inverse square law CERN@school paper",
+    "label":"casinvsquaredata",
+    "drn":"CAS-PUB-GEN-000006",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.949631.v1",
+    "url":"http://doi.org/10.6084/m9.figshare.949631.v1",
+    "summary":"This zip archive contains the datasets collected for and used in the paper, 'Investigating the inverse square law with the Timepix hybrid silicon pixel detector: a CERN@school demonstration experiment'~\\cite{Whyntie2013}."
+  },
+  {
+    "title":"CERN@school: Particle Detector and Beta Attenuation",
+    "short_title":"SEPnet Student Expo, Nov. 2013 - students' poster",
+    "label":"sepnet2013poster",
+    "drn":"CAS-PUB-GEN-000007",
+    "old_drn":"000055",
+    "doi":"10.6084/m9.figshare.1018712.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1018712.v1",
+    "summary":"This poster presents the work completed by the 2013 SEPnet summer students during their internships with the CERN@school programme.  After an introduction to CERN@school, three areas of work with the Timepix hybrid silicon pixel detector are discussed: particle classification, radiation profiling, and the attenuation of beta radiation by aluminium shielding.  Results and conclusions are presented. This poster was first exhibited at the SEPnet Student Expo at the Royal Institution of Great Britain on Wednesday 20th November 2013."
+  },
+  {
+    "title":"Background Radiation Measurements with the Timepix hybrid silicon pixel detector: a CERN@school how-to guide",
+    "short_title":"Measuring background radiation (detailed how-to guide)",
+    "label":"casbkgradguide",
+    "drn":"CAS-PUB-GEN-000008",
+    "old_drn":"000131",
+    "doi":"10.6084/m9.figshare.895961.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.895961.v1",
+    "summary":"This document is a how-to guide for making simple background radiation measurements with the Timepix hybrid silicon pixel detector.  After introducing the aims and context of the experiment, the equipment, preparatory steps, and detector settings required are listed, as well as guidelines for acquiring and managing the experimental data. Instructions for both the CERN@school Mk1 detector and the Jablotron MX-10 digital particle camera are provided. A number of areas for further investigation are then briefly discussed.  The results of sample measurements taken following the procedures outlined in this guide are presented in~\\cite{Whyntie2015b}."
+  },
+  {
+    "title":"CERN@school: Background Radiation Measurements sample data set",
+    "short_title":"The background radiation measurement sample dataset",
+    "label":"casbkgdataset",
+    "drn":"CAS-PUB-GEN-000009",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.1618851.v2",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1618851.v2",
+    "summary":"This dataset contains copies of the original data used in the background radiation measurement experiment reported in~\\cite{Whyntie2015b}."
+  },
+  {
+    "title":"CERN@school Solar Eclipse: (V2)Protocol For Background Radiation Measurements (Mk1 Detectors)",
+    "short_title":"Eclipse 2015: protocol for Mk1 detector measurements",
+    "label":"caseclipse2015protocolmk1",
+    "drn":"CAS-PUB-GEN-000010a",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.1333543.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1333543.v1",
+    "summary":"This document, written by students from the Simon Langton Grammar School for Boys, outlines the protocol developed for data capture during the solar eclipse of the 20th March 2015, and any prior tests, for use by CERN@school participants.  It features the data capture procedure for the Mk1 (red) detector and the instructions for how to upload the data to the DAQMAP, the Data AcQuisition, Management, Analysis and Presentation system used at the time."
+  },
+  {
+    "title":"CERN@school Solar Eclipse: (V2)Protocol For Background Radiation Measurements",
+    "short_title":"Eclipse 2015: protocol for MX-10 detector measurements",
+    "label":"caseclipse2015protocolmx10",
+    "drn":"CAS-PUB-GEN-000010",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.1333542.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1333542.v1",
+    "summary":"This document, written by students from the Simon Langton Grammar School for Boys, outlines the protocol developed for data capture during the solar eclipse of the 20th March 2015, and any prior tests, for use by CERN@school participants.  It features the data capture procedure for the Jablotron MX-10 detector and the instructions for how to upload the data to the DAQMAP, the Data AcQuisition, Management, Analysis and Presentation system used at the time."
+  },
+  {
+    "title":"CERN@school: analysing data from the LUCID experiment",
+    "short_title":"LUCID data analysis presentation (Symposium 2014)",
+    "label":"caslucidanalysispres",
+    "drn":"CAS-PUB-GEN-000011",
+    "old_drn":"000162",
+    "doi":"10.6084/m9.figshare.1185541.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1185541.v1",
+    "summary":"This document contains the presentation slides used at the LUCID data analysis workshop held at the CERN@school Research Symposium 2014.  This took place at the University of Surrey as part of the 10th International Conference on Position Sensitive Detectors (PSD10).  The workshop covered using the DAQMAP, analysing data using cluster properties and particle identification algorithms, and some worked examples with data from LUCID simulations and the Timepix detectors onboard the Internation Space Station (ISS).  The talk featured work from N. Shearer (IOP Summer Student 2014)."
+  },
+  {
+    "title":"Plotting with CERN@school: an introduction to functions",
+    "short_title":"Coding with CERN@school - plotting functions workshop",
+    "label":"casplottingpres",
+    "drn":"CAS-PUB-GEN-000012",
+    "old_drn":"000193",
+    "doi":"10.6084/m9.figshare.1136052.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.1136052.v1",
+    "summary":"This document contains slides that were used in CERN@school coding workshops on plotting functions using Python and the matplotlib software suite.  It introduces the user to plotting mathematical functions at a standard suitable for academic publication in a step-by-step fashion.  The presentation features work by N. Shearer (IOP summer student 2014), and the function plotted as an example is the Timepix pixel calibration surrogate function as described in~\\cite{Jakubek2008,Jakubek2011}."
+  },
+  {
+    "title":"CERN@school: Setting up a CernVM",
+    "short_title":"CERN@school: Setting up a CernVM",
+    "label":"cascernvmcheatsheet",
+    "drn":"CAS-PUB-GEN-000013",
+    "old_drn":"000308",
+    "doi":"10.6084/m9.figshare.4552825.v1",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.4552825.v1",
+    "summary":"This document provides a guide to setting up a stand-alone CernVM (CERN Virtual Machine) that can be used for computing work with the CERN@school programme.  Based on Scientific Linux 6, the Virtual Machine (VM) featured can be used for data analysis, storage and management with the CERN@school software, which is available via the CernVM File System (CernVM-FS).  The CernVM can also be used as a User Interface (UI) to the Worldwide LHC Computing Grid (WLCG)."
+  },
+  {
+    "title":"CERN@school: Radiation Profiles sample dataset",
+    "short_title":"The radiation profiles experiment sample dataset",
+    "label":"casradprofilesdataset",
+    "drn":"CAS-PUB-GEN-000014",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.4588276.v2",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.4588276.v2",
+    "summary":"This dataset contains copies of the original data used in the radiation profiles experiment reported in~\\cite{Whyntie2015b}.  The radiation profiles in question are of a KCl sample.  The dataset contains both the real data as measured by a Timepix detector and the simulated data from the GEANT4 AllPix simulations of a Timepix detector and KCl source."
+  },
+  {
+    "title":"CERN@school: Attenuation of Radiation sample dataset",
+    "short_title":"The attenuation of radiation sample dataset",
+    "label":"casbetaattenuationdataset",
+    "drn":"CAS-PUB-GEN-000015",
+    "old_drn":"None",
+    "doi":"10.6084/m9.figshare.867659.v2",
+    "url":"https://dx.doi.org/10.6084/m9.figshare.867659.v2",
+    "summary":"This dataset was obtained by A. Coupe (SEPnet summer student 2013) with a Timepix hybrid silicon detector as part of an experiment to measure the attenuation of beta particles from Strontium-90 by sheets of aluminium with varying thicknesses. The experiment and its results are described in~\\cite{Whyntie2015b}."
+  },
+  {
+    "title":"The GridPP New User Engagement Programme: Selected Case Studies",
+    "short_title":"GridPP: selected new user community case studies",
+    "label":"gridppcasestudies",
+    "drn":"GridPP-ENG-001",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.220995",
+    "url":"http://doi.org/10.5281/zenodo.220995",
+    "summary":"In this document from the GridPP Collaboration, a number of selected case studies from the GridPP's New User Engagement Programme are presented.  Communities featured include those from fields like medical physics, computational biology, space and astrophysics.  The services used and developed by GridPP to achieve this engagement are also briefly described.  CERN@school was the flagship Virtual Organisation (VO) during the New User Engagement Programme, and contributions from the CERN@school Collaboration helped to shape the tools, software, and documentation used throughout."
+  },
+  {
+    "title":"The GridPP UserGuide",
+    "short_title":"The GridPP UserGuide",
+    "label":"gridppuserguide",
+    "drn":"GridPP-ENG-002",
+    "old_drn":"None",
+    "doi":"10.5281/zenodo.222702",
+    "url":"http://doi.org/10.5281/zenodo.222702",
+    "summary":"This document, written as part of GridPP's New User Engagement Programme, aims to help new users make use of GridPP resources through the DIRAC, Ganga and CernVM suite of Grid computing technologies.  The CERN@school Virtual Organisation (VO) was the flagship VO for the development, testing, and deployment of these technologies."
+  }
+]

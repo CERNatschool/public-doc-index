@@ -1,0 +1,87 @@
+[
+  {
+"title":"2nd MoEDAL Collaboration meeting (CERN)",
+"short_title":"2nd MoEDAL Collaboration meeting (CERN)",
+"label":"moedalcol2014jun",
+"timestamp_start":1403186400,
+"timestamp_end":1403370000,
+"event_url":"https://indico.cern.ch/event/320391",
+"summary":"The 2nd MoEDAL Collaboration meeting was held at CERN, and CERN@school were invited to attend owing to the students' experience with the Timepix detectors to explore whether they could contribute to the MoEDAL experiment.  (Note: this event is the same as that described in the CERN@school section, repeated here for consistency.)"
+  },
+  {
+"title":"CERN@school: analysing clusters from the MoEDAL experiment",
+"short_title":"Cluster analysis workshop/T2K visit (Langton)",
+"date_start":"2014-12-10",
+"label":"langtonworkshop2014dec",
+"timestamp_start":1418217300,
+"summary":"This workshop introduced the students at the Langton Star Centre to analysing clusters from the MoEDAL Timepix detector network through coding.  The preliminary cluster classification scheme was described, as was its potential application to the MoEDAL experiment.  There was also a presentation from S. Short (Particle Physics Research Centre, Queen Mary University of London) on her work with the T2K neutrino experiment and the importance of coding in modern High Energy Physics."
+  },
+  {
+"title":"3rd MoEDAL Collaboration meeting (CERN)",
+"short_title":"3rd MoEDAL Collaboration meeting (CERN)",
+"label":"moedalcol2015jun",
+"timestamp_start":1434607200,
+"timestamp_end":1434729600,
+"event_url":"https://indico.cern.ch/event/389924/",
+"summary":"The 3rd MoEDAL Collaboration meeting was held at CERN, just before the Royal Society Summer Science Exhibition where MoEDAL had an exhibition stand.  This gave the collaboration a chance to see the CERN@school students' work and the materials that had been prepared for the Monopole Quest! exhibit and accompanying Zooniverse project."
+  },
+  {
+"title":"Monopole Quest! at the Royal Society Summer Science Exhibition 2015",
+"short_title":"MoEDAL at the RSSSE 2015",
+"label":"rssse2015",
+"timestamp_start":1435651200,
+"timestamp_end":1436112000,
+"event_url":"http://sse.royalsociety.org/2015/monopole-quest/",
+"summary":"The MoEDAL Collaboration had a stand at the 2015 Royal Society Summer Science Exhibition.  This included the launch of the Monopole Quest! Citizen Science project for the analysis of Nuclear Track Detector scans using the Zooniverse's Pantopes project builder platform."
+  },
+  {
+"title":"4th MoEDAL Collaboration meeting (CERN)",
+"short_title":"4th MoEDAL Collaboration meeting (CERN)",
+"label":"moedalcol2015dec",
+"timestamp_start":1449730800,
+"timestamp_end":1449853200,
+"event_url":"https://indico.cern.ch/event/459042/",
+"summary":"The 4th MoEDAL Collaboration meeting was held at CERN.  CERN@school students attended remotely from the Langton Star Centre via Vidyo and updated the collaboration with preliminary results from the Citizen Science studies of Timepix and Nuclear Track Detector (NTD) data from the MoEDAL experiment."
+  },
+  {
+"title":"MoEDAL: Fellow's visit to CERN",
+"short_title":"MoEDAL: Fellow's visit to CERN",
+"label":"moedalcern2016may",
+"timestamp_start":1462172400,
+"timestamp_end":1462460400,
+"summary":"During this visit to CERN, the Fellow held meetings with the spokesperson of the MoEDAL Collaboration (J. Pinfold) and members of the Open Cosmics team, as well as attending the MoEDAL Software and Analysis Group (SaAG) meeting at CERN."
+  },
+  {
+"title":"5th MoEDAL Collaboration meeting (Uni. Valencia)",
+"short_title":"5th MoEDAL Collaboration meeting (Uni. Valencia)",
+"label":"moedalcol2016jun",
+"timestamp_start":1467097200,
+"timestamp_end":1467218100,
+"event_url":"https://indico.cern.ch/event/493401/",
+"summary":"The 5th MoEDAL Collaboration meeting was held at the Scientific Park ('Parque Cientifico') in Valencia, where the Instituto de Fisica Corpuscular (IFIC) is located.  It was where the first results from the Nuclear Track Detector (NTD) analysis with the Monopole Quest! Zooniverse project were presented to the collaboration."
+  },
+  {
+"title":"Medipix Collaboration Meeting -- Open Session (CERN)",
+"short_title":"Medipix Collaboration Meeting -- Open Session (CERN)",
+"label":"mpxcol2016cernmoedal",
+"timestamp_start":1474441200,
+"event_url":"https://indico.cern.ch/event/570934/",
+"summary":"CERN@school attended the open session of the September 2016 Medipix Collaboration meeting, held at CERN.  As well as updates from CERN@school, the trip to CERN allowed for meetings with other members of the MoEDAL Collaboration (including Prof. J. Pinfold) to coordinate Timepix and Nuclear Track Detector (NTD) activities."
+  },
+  {
+"title":"MoEDAL and the LHC: the Hunt for Magnetic Monopoles",
+"short_title":"RAL Work Experience Talk: MoEDAL and the LHC",
+"label":"ralworkexptalk",
+"timestamp_start":1467372000,
+"summary":"This talk was given to students from the Rutherford Appleton Laboratory's work experience scheme, covering the physics of the Large Hadron Collider (LHC) and the hunt for magnetic monopoles there with the MoEDAL experiment.  It also covered the theoretical justification for the search for isolated magnetic charge and the history of experimental searches to date."
+  },
+  {
+"title":"6th MoEDAL Collaboration meeting (CERN)",
+"short_title":"6th MoEDAL Collaboration meeting (CERN)",
+"label":"moedalcol2016dec",
+"timestamp_start":1481529600,
+"timestamp_end":1481659200,
+"event_url":"https://indico.cern.ch/event/558903/",
+"summary":"The 6th MoEDAL Collaboration meeting was held at CERN.  It was at this meeting that the first meaurement from the Monopole Quest! Zooniverse project was presented to the collaboration.  The meeting also saw Queen Mary University of London (QMUL) apply to join the MoEDAL Collaboration."
+  }
+]

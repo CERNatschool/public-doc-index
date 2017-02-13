@@ -1,0 +1,165 @@
+\documentclass[12pt,a4paper]{iopart}
+
+% Document information
+\newcommand{\DRN}{CAS-PUB-GEN-000000}
+\newcommand{\thisversion}{1.0}
+
+% Author information
+\input{common/authors/twhyntie.tex}
+
+% Packages and settings for CERN@school document formatting
+\input{common/tools/CERNatschool-packages.tex}
+
+% CERN@school macros and definitions
+\input{common/tools/defs.tex}
+
+\begin{document}
+
+%
+% Title
+%
+% The CERN@school logo
+\input{common/tools/logoheader.tex}
+
+\title{%
+The CERN@school Programme: Document Index
+}
+% 
+% Author information
+\author{\theauthorinit$^{1, \, 2}$}
+%
+\address{$^1$\theauthoraddressA}
+\address{$^2$\theauthoraddressB}
+\ead{\mailto{\theauthoremail}}
+
+%-----------------------------------------------------------------------------
+% Abstract
+\begin{abstract}
+CERN@school is a student-led research programme that brings
+CERN into the classroom.
+This document provides an index of the
+documents,
+presentations,
+events,
+code repositories,
+and
+publications
+related to research and other activities associated with the
+programme from June 2012 to December 2016.
+It therefore effectively serves as a chronicle of the programme
+for this period, covering the national expansion of the CERN@school Timepix detector
+network, the launch of the Langton Ultimate Cosmic ray Intensity Detector (LUCID),
+the TimPix project (part of ESA astronaut's Principia mission),
+and the integration of CERN@school with the Monopole and Exotics Detector
+at the LHC (MoEDAL) research programme.
+Links and references to all relevant documents, presentations, code, and data
+are provided where available.
+\end{abstract}
+%-----------------------------------------------------------------------------
+%
+
+{\color{white}Spacer}
+\\[4cm]
+
+% Add the license information (CC-BY-4).
+\input{common/tools/licenseCCBY4}
+
+\clearpage
+
+% Add a table of contents.
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\clearpage
+
+% The introduction.
+\input{intro}
+
+\clearpage
+
+% The CERN@school section
+
+\input{cas/cas}
+\clearpage
+
+% The MoEDAL section.
+
+\input{moedal/moedal}
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Publications}
+\label{sec:publications}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The peer-reviewed publications associated with and/or referenced by
+the CERN@school programme are listed with full bibliographic citations in the
+\hyperref[sec:references]{References section}.
+%
+For convenience,
+the \code{BibTeX} citation code used in this document's \code{BibTeX} file,
+DOI or URL, brief notes, year of publication and citation number
+are listed in Table~\ref{tab:papers1}.
+%
+Papers that were directly supported by either
+STFC grant number ST/J000256/1
+(Science in Society Large Award, plus extensions)
+or
+STFC grant number ST/N00101X/1
+(Public Engagement Fellowship)
+are marked with an asterisk.
+
+\begin{landscape}
+%
+% The table produced by make_paper_summary_tables.py
+\input{autotable}
+%
+\end{landscape}
+
+\newpage
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Bibliography
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\section{References}
+\label{sec:references}
+\bibliographystyle{unsrt.bst}
+\bibliography{cernatschool}
+%
+%------------------------------------------------------------------------------
+
+\clearpage
+
+\input{acronyms}
+
+%\clearpage
+
+\input{ack}
+
+%\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Version History}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%______________________________________________________________________________
+\begin{table}[h]
+\caption{\label{tab:version}Version history.}
+\lineup
+\begin{indented}
+\item[]\begin{tabular}{@{}cllc}
+\br
+\centre{1}{$\quad$Version    $\quad$} & 
+\centre{1}{$\quad$Description$\quad$} &
+\centre{1}{$\quad$DOI        $\quad$} &
+\centre{1}{$\quad$Author     $\quad$} \\
+\mr
+1.0 & Initial version. & \href{http://doi.org/10.5281/zenodo.227090}{10.5281/zenodo.227090}& TW \\
+\br
+\end{tabular}
+\end{indented}
+\end{table}
+%______________________________________________________________________________
+
+\end{document}

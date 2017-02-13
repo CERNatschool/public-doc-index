@@ -1,0 +1,177 @@
+% Numeric prefixes and suffixes
+\newcommand{\Giga}{\ensuremath{\textrm{G}}}
+\newcommand{\Mega}{\ensuremath{\textrm{M}}}
+\newcommand{\kilo}{\ensuremath{\textrm{k}}}
+
+\newcommand{\centi}{\ensuremath{\textrm{c}}}
+\newcommand{\milli}{\ensuremath{\textrm{m}}}
+\newcommand{\micro}{\ensuremath{\mu}}
+\newcommand{\nano}{\ensuremath{\textrm{n}}}
+
+% Units
+\newcommand{\unitspec}[1]{\ensuremath{\left[ #1 \right]}}
+
+% Distances
+\newcommand{\metre}{\ensuremath{\textrm{m}}}
+%
+\newcommand{\km}{\ensuremath{\kilo \metre}}
+%
+\newcommand{\cm}{\centi \metre}
+\newcommand{\mm}{\milli \metre}
+\newcommand{\um}{\micro \metre}
+\newcommand{\nm}{\nano \metre}
+%
+\newcommand{\detector}{\ensuremath{d}}
+\newcommand{\detx}{\ensuremath{x_{\detector}}}
+\newcommand{\dety}{\ensuremath{y_{\detector}}}
+\newcommand{\detz}{\ensuremath{z_{\detector}}}
+
+% Angles
+\newcommand{\degree}{\ensuremath{\,^{\circ}}}
+%
+% Rotations
+\newcommand{\Omegax}{\ensuremath{\Omega_{x}}}
+\newcommand{\Omegay}{\ensuremath{\Omega_{y}}}
+\newcommand{\Omegaz}{\ensuremath{\Omega_{z}}}
+%
+% Euler angles
+\newcommand{\euleranglea}{\ensuremath{\alpha}}
+\newcommand{\eulerangleb}{\ensuremath{\beta}}
+\newcommand{\euleranglec}{\ensuremath{\gamma}}
+%
+
+% Times
+%
+\newcommand{\second}{\ensuremath{\textrm{s}}}
+\newcommand{\minute}{\ensuremath{\textrm{minute}}}
+\newcommand{\minutes}{\ensuremath{\textrm{minutes}}}
+\newcommand{\months}{\ensuremath{\textrm{month}}}
+%
+\newcommand{\us}{\ensuremath{\micro \second}}
+
+\newcommand{\Hertz}{\ensuremath{\textrm{Hz}}}
+%
+\newcommand{\MHz}{\ensuremath{\Mega \Hertz}}
+%
+% Experimental quantities (time)
+\newcommand{\mytime}{\ensuremath{t}}
+\newcommand{\starttime}[1]{\ensuremath{\mytime_{#1}}}
+\newcommand{\starttimei}{\starttime{i}}
+\newcommand{\acqtime}{\ensuremath{\Delta \mytime}}
+\newcommand{\acqtimesub}[1]{\ensuremath{\acqtime_{#1}}}
+\newcommand{\acqtimei}{\acqtimesub{i}}
+
+% Electricity
+\newcommand{\volt}{\ensuremath{\textrm{V}}}
+
+% Energy
+\newcommand{\energy}{\ensuremath{E}}
+
+\newcommand{\eV}{\ensuremath{\textrm{e\volt}}}
+
+\newcommand{\keV}{\ensuremath{\kilo \eV}}
+\newcommand{\MeV}{\ensuremath{\Mega \eV}}
+
+% Charge
+\newcommand{\echarge}{\ensuremath{e}}
+
+% Radiation
+\newcommand{\Gray}{\ensuremath{\textrm{Gy}}}
+\newcommand{\uGy}{\ensuremath{\micro \Gray}}
+%
+\newcommand{\Sievert}{\ensuremath{\textrm{Sv}}}
+\newcommand{\uSv}{\ensuremath{\micro \Sievert}}
+
+% Data
+\newcommand{\bits}{\ensuremath{\textrm{b}}}
+\newcommand{\bitspersecond}{\ensuremath{\bits \second^{-1}}}
+
+\newcommand{\kbps}{\kilo \bitspersecond}
+\newcommand{\Mbps}{\Mega \bitspersecond}
+
+\newcommand{\Bytes}{\ensuremath{\textrm{B}}}
+
+\newcommand{\MBytes}{\ensuremath{\Mega \Bytes}}
+\newcommand{\GBytes}{\ensuremath{\Giga \Bytes}}
+
+% Formatting
+\newcommand{\term}[1]{{\color{cernblue}\textbf{#1}}}
+\newcommand{\bullettext}[1]{\textbf{#1}}
+\newcommand{\code}[1]{{ }\textbf{\texttt{#1}}{ }}
+\newcommand{\keyp}[1]{\emph{#1}}
+\newcommand{\feat}[1]{\emph{#1}}
+\newcommand{\bytename}[1]{\textbf{#1}}
+\newcommand{\bitsspec}[2]{\texttt{[#1:#2]}}
+\newcommand{\menuitem}[1]{\emph{#1}}
+%
+% From the pandoc automatic LaTeX generation for Markdown lists.
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+%
+\newcommand{\radiobutton}[1]{\emph{#1}}
+\newcommand{\tickbox}[1]{\emph{#1}}
+%
+% Windows
+\newcommand{\windowstab}[1]{\textbf{#1}}
+\newcommand{\windowssection}[1]{\emph{#1}}
+\newcommand{\windowsbutton}[1]{\emph{#1}}
+% Memory register names.
+\newcommand{\memreg}[1]{\texttt{#1}}
+
+% Dates
+\newcommand{\thsuper}{\ensuremath{^{\textrm{\scriptsize th}}}}
+\newcommand{\ndsuper}{\ensuremath{^{\textrm{\scriptsize nd}}}}
+\newcommand{\stsuper}{\ensuremath{^{\textrm{\scriptsize st}}}}
+
+% Timepix
+\newcommand{\timepixcounts}{\ensuremath{\texttt{C}}}
+\newcommand{\timepixclock}{\ensuremath{T_{c}}}
+%
+% Detector settings
+\newcommand{\THL}{\ensuremath{\textrm{THL}}}
+\newcommand{\TEQ}{\ensuremath{\textrm{TEQ}}}
+\newcommand{\Ikrum}{\ensuremath{I_{\textrm{\footnotesize{Krum}}}}}
+
+% Calibration
+\newcommand{\caliba}{\ensuremath{a}}
+\newcommand{\calibb}{\ensuremath{b}}
+\newcommand{\calibc}{\ensuremath{c}}
+\newcommand{\calibt}{\ensuremath{t}}
+
+% Orientation
+\newcommand{\roll}{\ensuremath{\phi_{\textrm{\footnotesize roll}}}}
+
+% Misc. text
+%
+% CERN@school
+\newcommand{\CERNatschool}{CERN@school}
+%
+% Not applicable
+\newcommand{\notapp}{\ensuremath{\textrm{n/a}}}
+%
+\newcommand{\ith}{\ensuremath{i^{\textrm{\tiny\, th}}}}
+
+% Table tools
+\newcommand{\notappc}{\multicolumn{1}{c}{\notapp}}
+%\newcommand{\dashc}{\multicolumn{1}{c}{---}}
+\newcommand{\dashc}[1]{\multicolumn{#1}{c}{---}}
+\newcommand{\dashl}[1]{\multicolumn{#1}{l}{---}}
+\newcommand{\vdotsc}{\multicolumn{1}{c}{$\vdots$}}
+
+% Mathematics
+\newcommand{\orderof}[1]{\ensuremath{\mathcal{O} \! \left( #1 \right)}}
+
+\newcommand{\probdist}[1]{\ensuremath{\textrm{Pr}(#1)}}
+\newcommand{\probdistgiven}[2]{\probdist{#1 \, | \, #2}}
+
+\newcommand{\factorial}[1]{\ensuremath{#1 \, !}}
+
+\newcommand{\expo}[1]{\ensuremath{e^{#1}}}
+\newcommand{\fullexpo}[1]{\ensuremath{\textrm{Exp}(#1)}}
+
+% Poisson
+
+\newcommand{\mycount}{\ensuremath{n}}
+\newcommand{\mycounti}{\ensuremath{\mycount_{i}}}
+
+\newcommand{\poismean}{\ensuremath{\lambda}}

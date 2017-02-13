@@ -1,0 +1,329 @@
+[
+  {
+    "title":"CERN@school: Inspirational teaching with particle physics in the classroom",
+    "short_title":"ASE 2013: CERN@school teachers' workshop",
+    "meeting_type":"ASE",
+    "timestamp":1357297200,
+    "label":"ase2013workshop",
+    "old_drn":"000035",
+    "summary":"This workshop provided an introduction to the CERN@school programme, an overview of the Timepix detector, presented the various research opportunities afforded by CERN@school, and finally presented an example analysis exercise using the inverse square law demonstration experiment.",
+    "meeting_url":"http://www.ase.org.uk/conferences/previous-annual-conferences/ase-annual-conference-2013-reading/"
+  },
+  {
+    "title":"CERN@school and Citizen Science",
+    "short_title":"BBC Stargazing Live: CERN@school and Citizen Science",
+    "meeting_type":"BBC",
+    "timestamp":1357668000,
+    "label":"bbcstargazing2013workshop",
+    "old_drn":"000037",
+    "summary":"This workshop introduced the general public to CERN@school and the concept of Citizen Science, presenting examples from the CERN@school programme and other outreach organisations.",
+    "meeting_url":"http://www.bbc.co.uk/news/uk-england-kent-20958593"
+  },
+  {
+    "title":"An Introduction to CERN@school, CERN@school: the hardware, and Data Analysis and Management for Research (three presentations)",
+    "short_title":"CERN@school workshops for the IOP PNCs",
+    "meeting_type":"IOP",
+    "timestamp":1359192600,
+    "label":"iop2013janpncworkshops",
+    "old_drn":"None",
+    "summary":"These three presentations were given to around half of the IOP Physics Network Coordinators (PNCs) as an introduction to the CERN@school programme.  Following these workshops, the decision was made to pursue the acquisition of the MX-10 Timepix detectors from Jablotron in order to give those PNCs who wanted one a detector for their work in schools."
+  },
+  {
+    "title":"CERN@school: an introduction, the detector, and the data (three presentations and detector deployment)",
+    "short_title":"CERN@school detector deployment to the IOP PNCs",
+    "meeting_type":"IOP",
+    "timestamp":1369472400,
+    "label":"iop2013maydetdist",
+    "old_drn":"000038",
+    "summary":"These three presentations were given to around half of the IOP Physics Network Coordinators (PNCs) as they received their Jablotron MX-10 detector.  The meeting itself was held at the IOP headquarters, London."
+  },
+  {
+    "title":"An Introduction to CERN@school and CERN@school: the hardware -- PGCE day at the Langton Star Centre",
+    "short_title":"PGCE training day at the Langton Star Centre",
+    "meeting_type":"LSC",
+    "timestamp":1360142400,
+    "label":"feb2013pgceday",
+    "old_drn":"000042",
+    "summary":"These talks were given to PGCE students from Canterbury Christchurch University (Kent) as part of their off-site training provided by the Langton Star Centre."
+  },
+  {
+    "title":"CERN@school: harnessing GridPP for student-driven research",
+    "short_title":"CERN@school at GridPP30",
+    "meeting_type":"GridPP",
+    "timestamp":1364377500,
+    "label":"casgridpp30",
+    "old_drn":"000044",
+    "summary":"This presentation introduced CERN@school to the GridPP Collaboration.  A summary of the programme was presented, providing brief overviews of the Timepix detector, the Radiation Around You (RAY) experiment, and LUCID.  The potential for collaboration with GridPP was then discussed, acknowledging the support to date from the Queen Mary University of London's Particle Physics Research Centre (PPRC) and associated Tier-2 cluster.  Please note that a Grid certificate is required to be installed in your browser to access the slides.",
+    "meeting_url":"https://archive.gridpp.ac.uk/gridpp30/",
+    "slides_url":"https://archive.gridpp.ac.uk/gridpp30/Whyntie_CERNatschool_GridPP30.pdf"
+  },
+  {
+    "title":"Getting started with the CERN@school Mk1 detector",
+    "short_title":"SEPnet Officers CERN@school training session",
+    "meeting_type":"SEPnet",
+    "timestamp":1368612000,
+    "label":"sepnettraining2013",
+    "old_drn":"000060",
+    "summary":"This presentation provided training for the SEPnet Outreach Officers in the use of the CERN@school Mk1 detector."
+  },
+  {
+    "title":"Big Science: Particle Physics",
+    "short_title":"Big Science at the Royal Institution ft. CERN@school",
+    "meeting_type":"Ri",
+    "timestamp":1371578400,
+    "label":"ribigscience2013",
+    "old_drn":"000050",
+    "summary":"This presentation featured as part of science comedian Helen Arney's (Festival of the Spoken Nerd) night of Big Science at the Royal Institution of Great Britain.  As well as discussing particle physics, CERN, and the Large Hadron Collider, the CERN@school at programme was discussed and the Timepix detector was used to visualise radiation live on stage at the famous Royal Institution lecture theatre.  This is also where the Crookes dataset, taken by placing the detector above one of William Crookes's radioactive notebooks, was obtained."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"CERN@school for the IOP's Stimulating Physics (KCL SLC)",
+    "meeting_type":"IOP",
+    "timestamp":1372410000,
+    "label":"kclstimphys2013",
+    "old_drn":"000052",
+    "summary":"This presentation gave an introduction to the CERN@school programme as part of the IOP's Stimulating Physics events.  The event was run by the Science Learning Centre (SLC) at King's College London (KCL)."
+  },
+  {
+    "title":"LUCID: the Langton Ultimate Cosmic ray Intensity Detector",
+    "short_title":"CERN@school at the ESERO-UK Teacher Conference 2013",
+    "meeting_type":"ESERO",
+    "timestamp":1372777200,
+    "label":"esero2013pres",
+    "old_drn":"000051",
+    "summary":"This presentation gave an introduction to CERN@school for the attendees of the ESERO-UK Teacher Conference 2013, covering the Timepix detector, LUCID, and the wider approach to authentic research in schools.",
+    "meeting_url":"https://www.stem.org.uk/community/groups/37077/esero-uk-teacher-conference-2013",
+    "slides_url":"https://www.stem.org.uk/community/groups/37077/esero-uk-teacher-conference-2013"
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"CERN@school at the IOP Schools Outreach Support Network",
+    "meeting_type":"IOP",
+    "timestamp":1373965200,
+    "label":"iopoutreach2013",
+    "old_drn":"000053",
+    "summary":"This presentation introduced CERN@school to the IOP's Schools Outreach Support Network at their Summer 2013 meeting."
+  },
+  {
+    "title":"Simulation and analysis of the LUCID experiment in the Low Earth Orbit radiation environment",
+    "short_title":"CHEP 2013: LUCID initial simulation and analysis",
+    "meeting_type":"CHEP",
+    "timestamp":1381847400,
+    "label":"chep2013lucid",
+    "old_drn":"000068",
+    "meeting_url":"https://indico.cern.ch/event/214784/",
+    "slides_url":"https://indico.cern.ch/event/214784/contributions/1512648/",
+    "summary":"This talk was given at the 20th International Conference on Computing for High Energy Physics (CHEP 2013), held in Amsterdam, on the simulation and analysis of the Langton Ultimate Cosmic ray Intensity Detector (LUCID).  The results presented~\\cite{Whyntie2014} demonstrated that the expected data rates from the five Timepix detectors onboard LUCID should be within the transmission capabilities of TechDemoSat-1."
+  },
+  {
+    "title":"Getting started with the CERN@school Mk1 detector",
+    "short_title":"Uni. Kent CERN@school training session",
+    "meeting_type":"UNI",
+    "timestamp":1394794800,
+    "label":"unikenttraining2014",
+    "old_drn":"000060",
+    "summary":"This presentation provided training for a number of undergraduate students at the University of Kent in the use of the CERN@school Mk1 detector, as used by the SEPnet outreach group there."
+  },
+  {
+    "title":"Full simulation of the LUCID experiment in the LEO radiation environment",
+    "short_title":"iWoRID 2014: LUCID full simulation and analysis",
+    "meeting_type":"iWoRID",
+    "timestamp":1403683200,
+    "label":"iworid2014pres",
+    "old_drn":"000184",
+    "summary":"This talk at the 16th International Workshop on Radiation Imaging Detectors (iWoRID 2014) presented the results of the full GEANT4 simulations of the Langton Ultimate Cosmic ray Intensity Detector (LUCID) experiment.  The conference proceedings may be found in~\\cite{Whyntie2015a}.",
+    "meeting_url":"https://agenda.cnaf.infn.it/conferenceDisplay.py?confId=609",
+    "slides_url":"https://agenda.cnaf.infn.it/contributionDisplay.py?contribId=96&confId=609"
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"ICHEP 2014: an overview of CERN@school",
+    "meeting_type":"ICHEP",
+    "timestamp":1404378900,
+    "label":"ichep2014",
+    "old_drn":"000188",
+    "summary":"This presentation at the 2014 International Conference for High Energy Physics (Valencia, Spain) gave an overview of the CERN@school programme.  The talk described the programme's history, the Timepix detector, the various experimental activities associated with the programme (including Radiation Around You, LUCID, and the demonstration experiments, the collaboration with GridPP, an estimate of the programme's impact, and an overview of future plans.  The conference proceedings are reported in~\\cite{Whyntie2016b}.",
+    "meeting_url":"http://indico.ific.uv.es/indico/conferenceDisplay.py?confId=2025",
+    "slides_url":"http://indico.ific.uv.es/indico/contributionDisplay.py?sessionId=33&contribId=837&confId=2025"
+  },
+  {
+    "title":"CERN@school: Getting started with Coding",
+    "short_title":"Schools coding workshop (Langton)",
+    "meeting_type":"SCH",
+    "timestamp":1405350000,
+    "label":"schlangton2014coding",
+    "old_drn":"000189",
+    "summary":"This workshop introduced members of the Langton research group to the CERN@school and GridPP Virtual Machines, which could be used as a platform for coding and software development for CERN@school."
+  },
+  {
+    "title":"CERN@school: Ask the Expert",
+    "short_title":"Symposium 2014 workshop: ask the expert",
+    "meeting_type":"SYM",
+    "timestamp":1410171600,
+    "label":"casrs2014askexpert",
+    "old_drn":"000203",
+    "summary":"This workshop, part of the first CERN@school Research Symposium which was held at the University of Surrey, allowed attendees to get one-to-one expert advice on various aspects of the CERN@school programme, including detector operation and data management and analysis with the DAQMAP.",
+    "meeting_url":"https://indico.cern.ch/event/174805/sessions/126851/#20140908"
+  },
+  {
+    "title":"CERN@school: Analysing data from the LUCID experiment",
+    "short_title":"Symposium 2014 workshop: LUCID data analysis",
+    "meeting_type":"SYM",
+    "timestamp":1410174600,
+    "label":"casrs2014luciddata",
+    "old_drn":"000204",
+    "summary":"This workshop at the first CERN@school Research Symposium showed attendees how to go about analysing data from the LUCID experiment using the DAQMAP.  Examples from the LUCID GEANT4 simulations~\\cite{Whyntie2015a} and the Timepix detectors on the International Space Station (ISS) were also shown and discussed.  This workshop was prepared in collaboration with N. Shearer (IOP summer student 2014).",
+    "meeting_url":"https://indico.cern.ch/event/174805/sessions/126851/#20140908",
+    "slides_url":"https://dx.doi.org/10.6084/m9.figshare.1185541.v1"
+  },
+  {
+    "title":"Plotting with CERN@school: an introduction to functions",
+    "short_title":"Symposium 2014 workshop: plotting functions",
+    "meeting_type":"SYM",
+    "timestamp":1410176100,
+    "label":"casrs2014plottingfunctions",
+    "old_drn":"000193",
+    "summary":"This workshop showed attendees how to plot a function with Python from scratch using the matplotlib software suite.  It was prepared by N. Shearer (IOP summer student 2014).",
+    "meeting_url":"https://indico.cern.ch/event/174805/sessions/126851/#20140908",
+    "slides_url":"https://dx.doi.org/10.6084/m9.figshare.1136052.v1"
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"CERN@school at the STFC APPE, Oct. 2014",
+    "meeting_type":"APPE",
+    "timestamp":1412848800,
+    "label":"appe2014",
+    "old_drn":"000216",
+    "summary":"This presentation, given by B. Parker and C. Harvey, provided the STFC Advisory Panel for Public Engagement (APPE) with an update on CERN@school activities."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"School visit: ThinkPhysics (Northumbria University)",
+    "meeting_type":"SCH",
+    "timestamp":1413973800,
+    "label":"schthinkphysics",
+    "old_drn":"000282",
+    "summary":"This presentation introduced the ThinkPhysics team to the CERN@school programme, the Timepix detector, and how they can get involved with authentic research based on CERN science and technology."
+  },
+  {
+    "title":"CERN@school: update for the Medipix Collaboration",
+    "short_title":"Medipix Collaboration meeting, June 2014",
+    "meeting_type":"MPX",
+    "timestamp":1402480800,
+    "label":"mpxcollab2014jun",
+    "old_drn":"000182",
+    "summary":"This presentation provided the Medipix Collaboration with a brief update on CERN@school activites.  The meeting itself was held at the Diamond Light Source (Ruther Appleton Laboratory)."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"School visit: Bohunt School (at the Langton)",
+    "meeting_type":"SCH",
+    "timestamp":1424959200,
+    "label":"schbohunt2015",
+    "old_drn":"000225",
+    "summary":"This was a schools talk for students from the Bohunt School given during their visit to the Langton Star Centre."
+  },
+  {
+    "title":"The Science of CERN@school",
+    "short_title":"CERN@school at GridPP34",
+    "meeting_type":"GridPP",
+    "timestamp":1430404500,
+    "label":"casgridpp34",
+    "old_drn":"000235",
+    "summary":"This presentation gave an update on the research activities associated with the CERN@school programme, including the new demonstration experiments, the Eclipse 2015 work, LUCID, Grid activities, and the MoEDAL experiment.",
+    "meeting_url":"https://indico.cern.ch/event/369153/",
+    "slides_url":"https://indico.cern.ch/event/369153/#51-the-science-of-cernschool"
+  },
+  {
+    "title":"CERN@school -- update for the QMUL Public Engagement Celebration, May 2015",
+    "short_title":"CERN@school at the QMUL Public Engagement Celebration",
+    "meeting_type":"QMUL",
+    "timestamp":1431622800,
+    "label":"qmulpe2015",
+    "old_drn":"000237",
+    "summary":"An update on the status of CERN@school was provided for Prof. John Womersley, Chief Executive of STFC, who gave the keynote presentation at the Queen Mary University of London's Public Engagement Celebration event.",
+    "meeting_url":"http://www.qmul.ac.uk/publicengagement/Celebration/index.html"
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"CERN@school presentation for Researchers in Schools (Langton)",
+    "meeting_type":"RIS",
+    "timestamp":1431943200,
+    "label":"casris2015may",
+    "old_drn":"000240",
+    "summary":"This presentation introduced delegates from the Researchers in Schools (RIS) programme to CERN@school in a meeting held at the Langton Star Centre."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"CERN@school at the Ogden Training Day, June 2015 (Cambridge)",
+    "meeting_type":"OGD",
+    "timestamp":1433840400,
+    "label":"ogden2015",
+    "old_drn":"000247",
+    "summary":"This presentation introduced CERN@school to the Ogden Teaching Fellows and outreach officers present at the Ogden training day held at Homerton College, Cambridge."
+  },
+  {
+    "title":"LUCID - results from our cosmic ray detector on TechDemoSat-1",
+    "short_title":"C. Hewitt's NAM 2015 talk: first LUCID results",
+    "meeting_type":"NAM",
+    "timestamp":1436199900,
+    "label":"nam2015lucid",
+    "old_drn":"000252",
+    "summary":"This presentation, given by LUCID Team Leader C. Hewitt on behalf of the CERN@school Collaboration, presented the first results from the Langton Ultimate Cosmic ray Intensity Detector (LUCID) to the 2015 National Astronomy Meeting at Venue Cymru, Llandudno, Wales.",
+    "meeting_url":"http://nam2015.org/index.php/monday/form/15/240-lucid-results-from-our-cosmic-ray-detector-on-techdemosat-1"
+  },
+  {
+    "title":"TimPix: Monitoring Peake radiation levels with the Timepix detector",
+    "short_title":"Symposium 2015 presentation: the TimPix project launch",
+    "meeting_type":"SYM",
+    "timestamp":1442403000,
+    "label":"casrs2015timpix",
+    "old_drn":"000255",
+    "summary":"This presentation launched the TimPix project at the second CERN@school Research Symposium, held at Queen Mary University of London (QMUL).  The project, funded by the UK Space Agency as part of their Principia scheme, gives students working with the Institute for Research in Schools (IRIS) access to data from the five Timepix detectors onboard the International Space Station (ISS)."
+  },
+  {
+    "title":"CERN@school: brining CERN into the classroom",
+    "short_title":"School visit: the Thomas Hardye School, Dorset",
+    "meeting_type":"SCH",
+    "timestamp":1350982800,
+    "label":"schhardye2012",
+    "old_drn":"000056",
+    "summary":"This presentation introduced students to the CERN@school programme, the Timepix detector, and how they can get involved with authentic research based on CERN science and technology."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"School visit: Langton Star Centre",
+    "meeting_type":"SCH",
+    "timestamp":1379343600,
+    "label":"schlangton2013sept",
+    "old_drn":"None",
+    "summary":"This presentation was given to pilot the standardised schools talk for the students involved in research at the Langton Star Centre."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"School visit: Sir Roger Manwood's School, Kent",
+    "meeting_type":"SCH",
+    "timestamp":1370523600,
+    "label":"sch",
+    "old_drn":"000057",
+    "summary":"This presentation introduced students to the CERN@school programme, the Timepix detector, and how they can get involved with authentic research based on CERN science and technology."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"School visit: the Holt School, Berkshire",
+    "meeting_type":"SCH",
+    "timestamp":1371474000,
+    "label":"sch",
+    "old_drn":"000058",
+    "summary":"This presentation introduced students to the CERN@school programme, the Timepix detector, and how they can get involved with authentic research based on CERN science and technology."
+  },
+  {
+    "title":"CERN@school: bringing CERN into the classroom",
+    "short_title":"School visit: the Lampton School, London",
+    "meeting_type":"SCH",
+    "timestamp":1373889600,
+    "label":"sch",
+    "old_drn":"000059",
+    "summary":"This presentation introduced students to the CERN@school programme, the Timepix detector, and how they can get involved with authentic research based on CERN science and technology."
+  }
+]

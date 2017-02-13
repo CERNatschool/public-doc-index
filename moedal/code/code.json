@@ -1,0 +1,79 @@
+[
+  {
+"name":"moedal-bibliography",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"The CERN@school MoEDAL bibliography",
+"summary":"This repository contains the code used to generate the CERN@school MoEDAL bibliography, a list of publications relating directly or indirectly to the Monopole and Exotics Detector at the LHC (MoEDAL).  The bibliography is intended to serve as a reference for members of the MoEDAL Collaboration, students involved in research activities connected to MoEDAL, and indeed anyone with an interest in the latest searches for Dirac's hypothesised magnetic monopole at CERN's Large Hadron Collider.  As such, the BibTeX file found within may be used when writing new papers that need to reference previous research in the field.",
+"release":"v1.0",
+"doi":"10.5281/zenodo.193037",
+"label":"moedalbibcode"
+  },
+  {
+"name":"moedal-cernatschool-guide",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"The CERN@school Programme: A Guide to the MoEDAL Experiment",
+"summary":"This repository contains all of the LaTeX code needed to generate the CERN@school programme's guide to the MoEDAL experiment (CAS-PUB-MDL-000002-v1.0), and this is the initial release of the license-friendly image version.  Two images from CERN need to be retrieved from the CERN Document Server (CDS); instructions for doing this are included in the README.md file provided.",
+"release":"v1.0",
+"doi":"10.5281/zenodo.255371",
+"label":"moedalguidetex"
+  },
+  {
+"name":"moedal-grid-user-guide",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"The CERN@school Programme: MoEDAL Grid User Guide",
+"summary":"This repository contains all of the LaTeX code needed to generate the CERN@school programme's guide to getting on the Grid with MoEDAL (CAS-PUB-MDL-000006-v1.0).",
+"release":"v1.0",
+"doi":"10.5281/zenodo.258918",
+"label":"moedalgridguidecode"
+  },
+  {
+"name":"maxwells-equations",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"Maxwell's equations with and without magnetic charge (LaTeX)",
+"summary":"This LaTeX code was used to generate the figures used in CERN@school's MoEDAL-related material that feature Maxwell's equations of electromagnetism with and without magnetic charge.  The equations are produced as a standalone PDF document that may be used as required.",
+"release":"v1.0",
+"doi":"10.5281/zenodo.215291",
+"label":"maxwellsequations"
+  },
+  {
+"name":"moedal-run-simulations",
+"host":"https://gitlab.cern.ch",
+"organization":"moedal",
+"short_title":"MoEDAL: Run Simulations",
+"summary":"This repository contains code for running GEANT4 simulations of the MoEDAL experiment using software deploted via the CernVM File System (CernVM-FS). The simulations may be run locally or on the Grid via the Ganga Grid User Interface and the GridPP DIRAC system. Further information may be found in the MoEDAL Grid User Guide (CAS-PUB-MDL-000006).",
+"release":"v1.0",
+"label":"moedalrunsimulations"
+  },
+  {
+"name":"moedal-plots",
+"host":"https://gitlab.cern.ch",
+"organization":"moedal",
+"short_title":"MoEDAL: Plots",
+"summary":"This repository contains code for generating plots for the MoEDAL Collaboration. In this release, this includes a prototype exclusion plot and detector acceptance plot for monopole mass vs. magnetic charge for spin zero and spin half monopoles (Drell-Yan production).",
+"release":"v1.0",
+"label":"moedalplots"
+  },
+  {
+"name":"moedal-iris-timepix-note-001",
+"host":"https://gitlab.cern.ch",
+"organization":"moedal",
+"short_title":"IRIS Timepix internal note",
+"summary":"This repository contains everything needed for the internal analysis note on the MoEDAL Timepix detector network, based on work by done by school students from the Institute for Research in Schools (IRIS) and CERN MoEDAL Summer Students.",
+"release":"v0.0",
+"label":"iristimepixnote001"
+  },
+  {
+"name":"moedal-iris-ntd-note-001",
+"host":"https://gitlab.cern.ch",
+"organization":"moedal",
+"short_title":"IRIS NTD internal note",
+"summary":"This repository contains everything needed for the internal analysis note on the Citizen Science-based analysis of data from the MoEDAL Nuclear Track Detectors (NTDs). It is largely based on work by school students from the Institute for Research in Schools (IRIS) and some of the CERN MoEDAL Summer Students.",
+"release":"v0.0",
+"label":"irisntdnote001"
+  }
+]
+

@@ -1,0 +1,337 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{The CERN@school programme}
+\label{sec:cas}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+As noted in the introduction, an overview of the CERN@school
+programme may be found in the proceedings of the 2014
+\ac{ICHEP}~\cite{Whyntie2016b}. A brief summary of the programme's
+activities is provided below; the reader may then find further information
+in the listings of
+documents, %(Section~\ref{sec:casdocuments}),
+presentations, %(Section~\ref{sec:caspresentations}),
+events, %(Section~\ref{sec:casevents}),
+and
+code %(Section~\ref{sec:cascode})
+(subsections~\ref{sec:casdocuments},
+\ref{sec:caspresentations},
+\ref{sec:casevents},
+and~\ref{sec:cascode} respectively).
+%
+\begin{itemize}
+\item \bullettext{In the beginning}:
+CERN@school was conceived when students from the
+Simon Langton Grammar School for Boys
+visited the Medipix laboratories at \acs{CERN} in 2007.
+%
+After seeing the potential for using the
+Timepix hybrid silicon pixel detectors~\cite{Timepix2007,TimepixErratum2008}
+for detecting and visualising ionising radiation in the
+classroom,
+a pilot project was established with the support of
+the \acf{SEPnet}
+and
+Kent County Council (KCC)
+that placed ten detectors in schools around Kent, England.
+%
+\item \bullettext{LUCID}: 
+Students from the Langton Star Centre,
+the research facility attached to the school and
+directed by B. Parker,
+then submitted a proposal for the
+\acf{LUCID}
+experiment to a satellite competition for schools
+run by the British National Space Centre\footnote{
+  Now the \acf{UKSA}.
+} and
+\acf{SSTL}.
+%
+Consisting of five Timepix detectors arranged in an
+open-faced cube, \ac{LUCID} was ultimately accepted as one of
+scientific payloads aboard SSTL's \ac{LEO} technology demonstration
+satellite, TechDemoSat-1.
+%
+In 2011, the UK \acf{STFC}
+awarded \ac{LUCID} a Science in Society Large Award to support the
+dissemination of data and the development of educational and
+promotional resources for schools.
+%
+In the run-up to the (delayed) launch,
+GEANT4~\cite{GEANT42003,GEANT42006}
+simulations of LUCID were performed to estimate the performance
+of the detector and provide training data for CERN@school students.
+The results of this work were presented at the
+\acs{CHEP} 2013~\cite{Whyntie2014} and \acs{iWoRID} 2014~\cite{Whyntie2015a}
+conferences.
+%
+On Tuesday the 8th July 2014,
+TechDemoSat-1 launched successfully aboard a Soyuz 2b
+launch vehicle from Baikonur Cosmodrome, Kazakhstan. The satellite has
+since been commissioned and has been delivering data for the CERN@school
+programme since October 2014. LUCID project leader
+C. Hewitt presented the first results at the 2015 \acf{NAM}
+(see section~\ref{meeting:nam2015lucid}).
+%
+\item \bullettext{The Detector Network}:
+With the launch of TechDemoSat-1 delayed
+and additional funding secured,
+the opportunity was taken 
+to expand the original CERN@school detector network.
+Twenty-five Timepix detectors,
+supplied by Jablotron\footnote{%
+  See \texttt{http://www.jablotron.com}},
+were procured and distributed around the UK
+via the \acf{IOP}
+\acf{PTN} (see section~\ref{meeting:iop2013maydetdist}).
+%
+Many presentations and workshops were given to introduce
+students, teachers, and outreach network coordinators
+to the Timepix technology and data management systems.
+%
+In 2013, a Royal Commission for the Exhibition of 1851
+Special Award was made to support the role of
+Schools Research Champion for this national network of
+detectors (and \ac{LUCID}).
+%
+Subsection~\ref{meeting:eclipse2015event} describes the
+CERN@school Eclipse 2015 event, where many of the Timepix
+detectors in schools made measurements before, during, and
+after the total solar eclipse of Friday the 20th of March
+2015~\cite{Whyntie2016a}.
+%
+Results from this experiment, and many others including
+the \ac{RISE}, \ac{RAY}, and \ac{FAIR}, were presented at the
+three CERN@school Research Symposia held at
+the University of Surrey (2014, section~\ref{meeting:cassymposium2014}),
+\acl{QMUL} (2015, section~\ref{meeting:cassymposium2015}),
+and
+the \acl{RAL} (2016, section~\ref{meeting:cassymposium2016}).
+%
+\item \bullettext{The demonstration experiments and user guides}:
+as the Timepix detector is a research-grade piece of scientific
+equipment, four classroom demonstration experiments were carried out,
+written up and published in peer-reviewed journals -- {\em Physics
+Education}~\cite{Whyntie2013} and
+{\em Contemporary Physics}~\cite{Whyntie2015b}.
+This was to demonstrate not only the physics but how to prepare
+and publish one's scientific work and results with CERN@school.
+User guides and instructions were also provided on the 
+CERN@school website, which was at the time hosted by \acs{CERN}\footnote{%
+Formerly at \href{http://cernatschool.web.cern.ch}{http://cernatschool.web.cern.ch}}.
+The datasets from the experiments have also been made available
+in the \href{http://fighare.com}{FigShare} online data repository
+(see Section~\ref{sec:casdocuments}).
+Following feedback from teachers and outreach officers,
+a new set of guides and demonstration experiment worksheets were
+prepared for \acs{IRIS} by LFT Consulting and the \acf{SSERC}.
+CERN@school also moved its web presence to the \acs{IRIS} website,
+where these documents are hosted (see Section~\ref{sec:casdocuments}).
+%
+\item \bullettext{Coding with CERN@school}:
+The relatively simple data format used by the Timepix detector -- \code{ASCII}
+text files containing the pixel $x$, $y$, and count values -- meant
+that data processing and analysis with high-level programming languages like
+Python could be done fairly easily.
+CERN@school could therefore provide students (and teachers) with an
+introduction to coding motivated by scientific research
+(as opposed to making an app or other more trivial applications).
+To this end, various training materials featuring CERN@school
+data were prepared (see Section~\ref{sec:casdocuments}).
+A CERN@school \href{http://github.com}{GitHub} educational
+organisation was also created and CERN@school-related code was published there,
+including the code used in the published CERN@school experiments.
+See Section~\ref{sec:cascode} for further information and a list of
+relevant code repositories.
+%
+\item \bullettext{GridPP and the CernVM}:
+in October 2013, the Fellow joined the
+GridPP Collaboration~\cite{GridPP2006,GridPP2009} as Dissemination
+Officer.
+%
+GridPP, which represents the UK's contribution to the
+\ac{WLCG}, had previously offered computing support for
+CERN@school via the \texttt{cernatschool.org} \ac{VO}.
+This appointment offered the opportunity to formalise this
+partnership. \texttt{cernatschool.org} acted as a
+technology demonstrator \ac{VO} for GridPP's
+New User Engagement Programme.
+By using these technologies
+to power the work featured in CERN@school publications,
+e.g.~\cite{Whyntie2015a}, they were tested and ready for
+other new user communities
+from medical physics, astrophysics and computational biology
+to use in their activities and increasing GridPP's engagement
+beyond the \ac{LHC} and particle physics.
+Further details and case studies (of which CERN@school is one)
+can be found in the document described in
+Section~\ref{meeting:gridppcasestudies}.
+CERN@school students were also involved in testing and providing
+feedback on the GridPP UserGuide, the document described
+in Section~\ref{meeting:gridppuserguide} which provides a
+complete guide to getting on the Grid with GridPP.
+Furthermore, the GridPP CernVM -- a \ac{VM} image provided
+by \acs{CERN} configured for use with the GridPP New User
+Engagement Programme -- can provide an out-of-the-box
+working environment for coding with Python and
+CERN@school. A document describing how to create a GridPP CernVM
+for use with CERN@school is described in Section~\ref{meeting:cascernvmcheatsheet}.
+CERN@school was also represented at many of the GridPP Collaboration
+meetings in this period; see Section~\ref{sec:caspresentations}
+for further details.
+
+%
+\item \bullettext{TimPix and Principia}:
+following a successful partnership for a \acs{UKSA}-funded
+\acs{LUCID} side project for primary schools,
+``{\em Whatever the Space Weather}'',
+L. F. Thomas (LFT Consulting) worked on behalf of
+the Langton Star Centre and then the \ac{IRIS} to establish the
+TimPix project.
+Part of the \ac{UKSA} Principia Mission,
+which coordinated the outreach activities associated with
+UK \ac{ESA} astronaut Tim Peake's visit to the \ac{ISS},
+TimPix gave participating students access to data from the
+five Timepix detectors installed aboard the \ac{ISS}.
+Students working on TimPix projects presented their work
+at the Summer 2016 Medipix Collaboration meeting (Section~\ref{meeting:mpxcol2016cern})
+and the Principia Schools Conference (Section~\ref{meeting:principia2016pompey}).
+A CERN@school Timepix detector also featured in a demonstration
+of real-time radiation visualisation in Dr Kevin Fong's
+2015 Royal Institution Christmas Lectures (Section~\ref{meeting:rixmaslectures2015}).
+%
+\item \bullettext{The MoEDAL experiment at CERN}:
+owing to the students' experience with the Timepix detector,
+the Langton Star Centre joined the \ac{MoEDAL}
+collaboration in 2013\footnote{%
+See \href{https://cds.cern.ch/journal/CERNBulletin/2013/48/News Articles/1630194}{CERN Bulletin, Issue No. 48--49/2013}.},
+and so CERN@school added data from a \acf{LHC} experiment
+to its scientific portfolio\footnote{%
+CERN@school@CERN, if you will.}.
+However, as this became the focus of the Fellow's activities from
+January 2015, the documents, presentations, events and code
+repositories have been given a dedicated section
+(Section~\ref{sec:moedal}).
+\end{itemize}
+
+
+%\clearpage
+
+
+%=============================================================================
+\subsection{Documents}
+\label{sec:casdocuments}
+%=============================================================================
+Table~\ref{tab:casdocuments} lists the documents relating to
+CERN@school research and activities,
+which are then briefly described in the following subsections.
+%
+This includes things like internal reports, posters, experimental protocols,
+published datasets, and user guides, but not
+presentation slides (which are included with the
+relevant presentation in Section~\ref{sec:caspresentations})
+or code repositories (which are described in Section~\ref{sec:cascode}).
+%
+Peer-reviewed publications from the CERN@school programme have been
+listed in Section \ref{sec:publications} and are marked with an
+asterisk in Table~\ref{tab:papers1}.
+
+\begin{landscape}
+
+\input{cas/documents/documentstable}
+
+\end{landscape}
+
+\input{cas/documents/documents}
+
+\clearpage
+
+%=============================================================================
+\subsection{Presentations}
+\label{sec:caspresentations}
+%=============================================================================
+Table~\ref{tab:caspresentations} provides a list of selected presentations
+relating to the CERN@school programme from June 2012 to December 2016,
+i.e. the period covering the STFC Large Award, the Special Award from
+the Royal Commission for the Exhibition of 1851, and the
+CERN@school STFC Public Engagement Fellowship.
+These are then detailed in the following subsections,
+except for standard school visits (i.e. talks in schools where an overview of
+the programme and basic detector and data training was provided).
+Note that MoEDAL-related presentations are featured in
+Table~\ref{tab:moedalmeetings} (Section~\ref{sec:moedalpres}).
+
+\input{cas/presentations/presentationstable}
+
+\clearpage
+
+\input{cas/presentations/presentations}
+
+\clearpage
+
+%=============================================================================
+\subsection{Events}
+\label{sec:casevents}
+%=============================================================================
+Table~\ref{tab:casevents} lists events that took place between
+June 2012 and January 2017 that in some way involved CERN@school.
+Each event is then briefly described in the following subsections.
+Please note that,
+generally speaking,
+if there was a presentation given at an event
+it will be listed in Section~\ref{sec:caspresentations}
+and may not be listed here.
+
+\input{cas/events/eventstable}
+
+\clearpage
+
+\input{cas/events/events}
+
+\clearpage
+
+%=============================================================================
+\subsection{Code repositories}
+\label{sec:cascode}
+%=============================================================================
+In order to ensure students could freely participate in
+CERN@school-related scientific studies,
+all software and analysis code required to analyse data from the Timepix
+detectors was made publicly available via the online code repository
+\href{http://github.com}{GitHub}.
+When CERN@school existed as a separate entity,
+CERN@school used the CERN@school GitHub Organization:
+
+\href{http://github.com/CERNatschool}{http://github.com/CERNatschool}
+
+as a place for hosting software repositories that were undergoing active development.
+GitHub kindly provided an Educational Account for CERN@school
+which meant that a limited number of private repositories could be kept too.
+%
+However, with the creation of the \acf{IRIS}, a new GitHub Organization
+was created for software development across all \ac{IRIS} projects:
+
+\href{http://github.com/InstituteForResearchInSchools}{href://github.com/InstituteForResearchInSchools}
+
+and the CERN@school Organization has since been decommissioned.
+As a number of the repositories featured code used
+in the CERN@school documents and publications,
+the repository will remain on the GitHub website but will no longer
+be active.
+Except where otherwise noted,
+the software is issued under an MIT software license
+and may be used by \acs{IRIS} students (or indeed anyone else)
+as required.
+Furthermore, stable releases of these repositories
+have been published on the \acs{CERN}-backed
+\href{http://zenodo.org}{Zenodo} repository
+which assigns them a permanent \ac{DOI}.
+The relevant repositories are listed in
+Table~\ref{tab:cascode} and detailed in the
+following subsections.
+
+\input{cas/code/codetable}
+
+\clearpage
+
+\input{cas/code/code}
+
+\clearpage

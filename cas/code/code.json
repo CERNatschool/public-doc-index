@@ -1,0 +1,111 @@
+[
+  {
+"name":"public-doc-index",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"The CERN@school Programme: Document Index (LaTeX code)",
+"summary":"This repository contains all of the code needed to generate the CERN@school public document index, i.e. this document.",
+"release":"v1.0",
+"label":"casdocindexcode"
+  },
+  {
+"name":"SimLUCID-lite",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"SimLUCID-lite: first simulations of LUCID in LEO",
+"summary":"SimLUCID-lite is a simple GEANT4-based simulation of the Langton Ultimate Cosmic ray Intensity Detector (LUCID) experiment, used to estimate the expected data rates observed in Low Earth Orbit (LEO).  This is the official initial release of the SimLUCID-lite code that accompanies the CHEP 2013 conference proceedings~\\cite{Whyntie2014}, with an updated README.md to link CERN@school with the Institute for Research in Schools (IRIS).",
+"release":"v2.0",
+"doi":"10.5281/zenodo.246650",
+"label":"simlucidlite"
+  },
+  {
+"name":"LUCIDITY",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"LUCIDITY: simulation management web app",
+"summary":"The Langton Ultimate Cosmic ray Inetensity Detector Interactive Test sYstem (LUCIDITY) is a web app for running and managing simulations of the LUCID detector. It is based on the Hobo Ruby on Rails framework and was used to carry out the research reported in the CHEP 2013 conference proceedings~\\cite{Whyntie2014}.",
+"release":"v2.0",
+"doi":"10.5281/zenodo.250180",
+"label":"lucidity"
+  },
+  {
+"name":"fast-cluster-analysis",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"Fast Cluster Analysis for Timepix data",
+"summary":"The code in this repository can be used to perform a fast cluster analysis on data collected with a Timepix detector for use in research conducted as part of the CERN@school programme.  An example analysis using the radiation profile methods described in Section 4 of the CERN@school Contemporary Physics paper~\\cite{Whyntie2015b} is included.  The datasets featured in the paper are included with the code, but may also be found on FigShare (CAS-PUB-GEN-000014).",
+"release":"v2.0",
+"doi":"10.5281/zenodo.262642",
+"label":"fastcluster"
+  },
+  {
+"name":"getting-started",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"Getting started with CERN@school (legacy training code)",
+"summary":"This repository contains legacy code associated with training material for the CERN@school programme; see (for example) CAS-PUB-GEN-000012.  This initial release has been updated to reflect CERN@school's move to the Institute for Research in Schools (IRIS).",
+"release":"v2.0",
+"doi":"10.5281/zenodo.258966",
+"label":"casgettingstartedcode"
+  },
+  {
+"name":"frame-viewer",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"The CERN@school Frame Viewer",
+"summary":"This repository contains some simple Python code for displaying CERN@school Timepix frame data using a GridPP CernVM and the \\texttt{matplotlib} software suite.",
+"release":"v2.0",
+"doi":"10.5281/zenodo.260078",
+"label":"casframeviewercode"
+  },
+  {
+"name":"inverse-square-law",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"Testing the inverse square law with CERN@school: analysis code",
+"summary":"This repository contains the code required for performing the analysis described in the CERN@school inverse square law experiment, as described in~\\cite{Whyntie2013}. The dataset used in the paper is available separately at doi:10.6084/m9.figshare.949631.v1.",
+"release":"v2.1",
+"doi":"10.5281/zenodo.260103",
+"label":"casinvsquarecode"
+  },
+  {
+"name":"beta-attenuation",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"CERN@school: beta attenuation with aluminium",
+"summary":"This repository contains the code and data needed to recreate the analysis carried out for the beta radiation attenuation experiment described in Section 5 of the CERN@school Contemporary Physics paper~\\cite{Whyntie2015b}.  The datasets featured in the paper are included with the code, but may also be found on FigShare (CAS-PUB-GEN-000015).",
+"release":"v2.0",
+"doi":"10.5281/zenodo.262584",
+"label":"casbetaattenuationcode"
+  },
+  {
+"name":"particle-rate-plotter",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"CERN@school: particle rate plotter",
+"summary":"This code is for estimating the mean rate of particles detected with a Timepix detector using the method described in Section 3 of the CERN@school Contemporary Physics paper~\\cite{Whyntie2015b} and the accompanying background radiation measurement how-to guide (CAS-PUB-GEN-000008) on FigShare.  There is also code for plotting the time profile (i.e. the number of pixels detected over a time series) for a given dataset for a given day. The datasets featured in the paper are included with the code, but may also be found on FigShare (CAS-PUB-GEN-000014).",
+"release":"v2.0",
+"doi":"10.5281/zenodo.262541",
+"label":"casparticleratecode"
+  },
+  {
+"name":"get-coding",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"Get Coding with CERN@school!",
+"summary":"This repository contains the Jupyter notebooks and code associated with the prototype CERN@school coding course.  It contains one lesson that may be used as a basis for others and further development of the course.  The lesson displays in GitHub as a Jupyter notebook, but also may be used interactively when downloaded and run on (for example) a GridPP CernVM.",
+"release":"v2.0",
+"doi":"10.5281/zenodo.260081",
+"label":"casgetcodingcode"
+  },
+  {
+"name":"cluster-sorter",
+"host":"http://github.com",
+"organization":"CERNatschool",
+"short_title":"CERN@school: cluster sorting code",
+"summary":"This repository contains code for analysing, visualising and sorting clusters of pixels measured by the Timepix detector using the techniques described in~\\cite{Whyntie2015b}.",
+"release":"v2.0",
+"doi":"10.5281/zenodo.261151",
+"label":"casclustersortercode"
+  }
+]
