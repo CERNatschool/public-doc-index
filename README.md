@@ -1,5 +1,4 @@
-The CERN@school Programme Document Index
-========================================
+# The CERN@school Programme: Document Index
 CERN@school is a student-led research programme that brings
 CERN into the classroom.
 This repository contains the LaTeX code and JSON files
