@@ -83,7 +83,7 @@
 "host":"http://github.com",
 "organization":"CERNatschool",
 "short_title":"CERN@school: particle rate plotter",
-"summary":"This code is for estimating the mean rate of particles detected with a Timepix detector using the method described in Section 3 of the CERN@school Contemporary Physics paper~\\cite{Whyntie2015b} and the accompanying background radiation measurement how-to guide (CAS-PUB-GEN-000008) on FigShare.  There is also code for plotting the time profile (i.e. the number of pixels detected over a time series) for a given dataset for a given day. The datasets featured in the paper are included with the code, but may also be found on FigShare (CAS-PUB-GEN-000014).",
+"summary":"This code is for estimating the mean rate of particles detected with a Timepix detector using the method described in Section 3 of the CERN@school Contemporary Physics paper~\\cite{Whyntie2015b} and the accompanying background radiation measurement how-to guide (CAS-PUB-GEN-000008) on FigShare.  There is also code for plotting the time profile (i.e. the number of pixels detected over a time series) for a given dataset for a given day. The datasets featured in the paper are included with the code, but may also be found on FigShare (CAS-PUB-GEN-000009).",
 "release":"v2.0",
 "doi":"10.5281/zenodo.262541",
 "label":"casparticleratecode"
